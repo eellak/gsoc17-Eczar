@@ -30,5 +30,8 @@ Fix interpolation compatibility issues and selection of intermediate weights. Co
 **August 14 – August 18**<br />
 Final touches, documentation.
 
-**August 21 – August 29**<br />
+**August 21 – August 28**<br />
 Final week. Kept empty for any unpredictable delays.
+
+**August 29**<br />
+**Finish**
