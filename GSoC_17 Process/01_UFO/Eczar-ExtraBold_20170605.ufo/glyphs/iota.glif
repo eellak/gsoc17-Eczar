@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="1">
+  <advance width="313"/>
+  <unicode hex="03B9"/>
+  <outline>
+    <contour>
+      <point x="235.64" y="-14.0"/>
+      <point x="300.9094291706206" y="35.77768978243242"/>
+      <point x="323" y="90" type="curve"/>
+      <point x="299" y="145" type="line"/>
+      <point x="175.31883701145307" y="129.07136537268713"/>
+      <point x="153" y="133.0"/>
+      <point x="153" y="174" type="curve" smooth="yes"/>
+      <point x="153" y="187" type="line"/>
+      <point x="233" y="328"/>
+      <point x="253" y="408"/>
+      <point x="259" y="468" type="curve"/>
+      <point x="221" y="503" type="line"/>
+      <point x="146" y="502"/>
+      <point x="100" y="496"/>
+      <point x="50" y="471" type="curve"/>
+      <point x="61" y="130" type="line" smooth="yes"/>
+      <point x="64" y="35"/>
+      <point x="104" y="-14"/>
+      <point x="179" y="-14" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
