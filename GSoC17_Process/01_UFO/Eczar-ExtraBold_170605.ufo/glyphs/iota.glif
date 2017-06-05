@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iota" format="1">
-  <advance width="313"/>
+  <advance width="303"/>
   <unicode hex="03B9"/>
   <outline>
     <contour>
-      <point x="235.64" y="-14.0"/>
-      <point x="300.9094291706206" y="35.77768978243242"/>
-      <point x="323" y="90" type="curve"/>
-      <point x="299" y="145" type="line"/>
-      <point x="175.31883701145307" y="129.07136537268713"/>
+      <point x="231.70666666666665" y="-14.0"/>
+      <point x="291.21094344269983" y="36.517770268445005"/>
+      <point x="313" y="90" type="curve"/>
+      <point x="289" y="145" type="line"/>
+      <point x="173.34903753481018" y="130.07729516578195"/>
       <point x="153" y="133.0"/>
       <point x="153" y="174" type="curve" smooth="yes"/>
       <point x="153" y="187" type="line"/>

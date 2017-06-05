@@ -4093,25 +4093,7 @@
 				<string>f_k.liga</string>
 				<string>f_l.liga</string>
 				<string>f_t.liga</string>
-				<string>alpha.ver.004</string>
-				<string>alpha.ver.005</string>
-				<string>alpha.ver.006</string>
-				<string>alpha.ver.007</string>
-				<string>alpha.ver.008</string>
-				<string>alpha.ver.014</string>
-				<string>alpha.ver.015</string>
-				<string>alpha.ver.016</string>
-				<string>alpha.ver.017</string>
-				<string>alpha.ver.019</string>
-				<string>alpha.ver.020</string>
-				<string>alpha.ver.022</string>
-				<string>alpha.ver.023</string>
-				<string>alpha.ver.024</string>
-				<string>alpha.ver.025</string>
-				<string>alpha.ver.026</string>
-				<string>alpha.ver.027</string>
 				<string>.notdef</string>
-				<string>alpha.ver.028</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
