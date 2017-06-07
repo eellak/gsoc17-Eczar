@@ -1,5 +1,11 @@
 ## gsoc17-Eczar Process Diary
 
+**June 06**
+- Alternate test designs for /alpha /eta /iota /rho
+- Extra glyphs added: /epsilon /mu, added diacritics. Comparison of two alternate
+versions with different in & out strokes, and how they read along Latin text (designs await feedback from mentor):
+
+![FirstTests](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_Screenshots/170606_01.png?raw=true)
 
 **June 05**
 - Initial designs for Regular & Extra-Bold
