@@ -4112,6 +4112,12 @@
 				<string>f_l.liga</string>
 				<string>f_t.liga</string>
 				<string>.notdef</string>
+				<string>alpha.ver.003</string>
+				<string>alpha.ver.001</string>
+				<string>mu.ver.002</string>
+				<string>mu.ver.005</string>
+				<string>mu.ver.003</string>
+				<string>mu.ver.004</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

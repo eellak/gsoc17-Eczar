@@ -41,10 +41,22 @@
 		<integer>666</integer>
 		<integer>686</integer>
 	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-221</integer>
 		<integer>-201</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
 	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-101</integer>
@@ -55,7 +67,7 @@
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>ExtraBold</string>
+	<string>ExtraBold_170605_v01</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

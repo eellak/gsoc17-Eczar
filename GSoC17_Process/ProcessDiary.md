@@ -1,5 +1,7 @@
 ## gsoc17-Eczar Process Diary
 
+**June 07**
+
 **June 06**
 - Alternate test designs for /alpha /eta /iota /rho
 - Extra glyphs added: /epsilon /mu, added diacritics. Comparison of two alternate
