@@ -1,3 +1,7 @@
+# For DrawBot 
+# Use it with these files installed:
+# Eczar-ExtraBold_170605_v01.ufo, Eczar Regular_170610_v02, Eczar Regular_170610_v03
+
 size("A4Landscape")
 fontSize(10)
 lineHeight(12)

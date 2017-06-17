@@ -10,7 +10,7 @@
 **June 15**
 
 **Feedback from Mentor was provided (you can view the pdf [here](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/00_Feedback/170615-IVfeedback.pdf)). Suggestions include:**
-- to keep the terminals from V02 and implement them on the skeleton of v03
+- to keep the terminals from v02 and implement them on the skeleton of v03
 - make stronger and more prominent the corner element and the sharp strokes
 to match the latin better
 - fix some widths (check: /omicron, /rho, /alpha)
@@ -22,7 +22,9 @@ to match the latin better
 **June 14**
 - Version 03 of initial test designs uploaded
 - **First (Skype) meeting with mentor**
-- Test print doc with the 3 versions:
+- Test print doc, created with Drawbot Extention for RoboFont, with the 3 versions: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170614.pdf))
+
+![TestPrintDoc170614](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170614.png?raw=true)
 
 **June 13**
 - Revision and cleanup for v01 and v02, based on v03
@@ -54,7 +56,7 @@ versions with different in & out strokes, and how they read along Latin text (de
 **June 05**
 - Initial designs for Regular & Extra-Bold
 - First glyphs added: /alpha /eta /iota /omicron /rho
-- **Interpolation tests:**
+- **Interpolation tests:** (created with Drawbot Extention for RoboFont)
 based on the original design of Eczar, and according to the /n stems of Regular & Extra Bold,
 one can get the interpolation factor with some simple math:
 
