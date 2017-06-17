@@ -22,10 +22,6 @@
 	<string>Rosetta Type Foundry</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://www.rosettatype.com</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Eczar</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
 	<key>openTypeOS2VendorID</key>
 	<string> RST</string>
 	<key>openTypeOS2WeightClass</key>
@@ -62,8 +58,6 @@
 	<integer>-170</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>70</integer>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular_170606_v01</string>
 	<key>unitsPerEm</key>
