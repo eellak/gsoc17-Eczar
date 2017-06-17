@@ -37,8 +37,8 @@ to match the latin better
 **The variations between the three versions, lie on the exploration of these elements:**
 - different terminals, for example in v01 and v02 they follow an upwards exit, with v02 being more angular, while in v03, they follow a downwards exit (shown in red).
 - on how much continuous or interrupted the ductus is, more prominent on the different constructions of /eta and /mu (shown in yellow)
-- on the construction of loops, for example in v03, the design follows more closely a loop found in the devanagari script of Eczar (shown in light blue)
-- for v03 a sharper stroke ending is implement, following the endings found in the devanagari script of Eczar (shown in purple)
+- on the construction of loops, for example in v03, the design follows more closely a loop found in the devanagari script of Eczar (shown in purple)
+- for v03 a sharper stroke ending is implement, following the endings found in the devanagari script of Eczar (shown in light blue)
 
 ![ExploartionsBetweenVersions](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/170610_ExploartionsBetweenVersion.png?raw=true)
 
