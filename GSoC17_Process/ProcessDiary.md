@@ -8,8 +8,9 @@
 - Implementation of feedback
 - Change of Greek Capitals that share same design with Latin to components
 
-**June 15** <br />
-** Feedback from Mentor was provided (you can view the pdf [here](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/00_Feedback/170615-IVfeedback.pdf)). Suggestions include:**
+**June 15**
+
+**Feedback from Mentor was provided (you can view the pdf [here](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/00_Feedback/170615-IVfeedback.pdf)). Suggestions include:**
 - to keep the terminals from V02 and implement them on the skeleton of v03
 - make stronger and more prominent the corner element and the sharp strokes
 to match the latin better
@@ -24,8 +25,7 @@ to match the latin better
 - **First (Skype) meeting with mentor**
 - Test print doc with the 3 versions:
 
-
-**June 13 **
+**June 13**
 - Revision and cleanup for v01 and v02, based on v03
 - Changed 'font info', adding individual names based on date and version in UFO files for better test install from RoboFont
 
