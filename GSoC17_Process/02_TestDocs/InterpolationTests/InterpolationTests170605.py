@@ -1,4 +1,6 @@
 # For DrawBot Extention in Robofont
+# Use it with these files open:
+# Eczar-ExtraBold_170605_v01.ufo & Eczar-Regular_170606_v01.ufo
 # Draft coding for preview - code needs optimization
 
 newPage("A4")
@@ -154,4 +156,4 @@ font("SourceCodePro-Light")
 fontSize(6)
 textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / DraftInterpolationTests170605 ", (50, 0, width(), 30), align="left")
 
-saveImage("InterpolationTests170605.png")
+saveImage("InterpolationTests170605.pdf")
