@@ -1,6 +1,5 @@
 ## **gsoc17-Eczar Process Diary**
 
----
 **June17**
 
 

@@ -35,7 +35,7 @@ Fix interpolation compatibility issues, completion of the 5 weights, documentati
 
 You can find the detailed, week by week, **timeline** for the project [here](https://github.com/eellak/gsoc17-Eczar/blob/master/TIMELINE.md).
 
-Also, a daily diary is kept with **process updates** [here](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/ProcessDiary.md)
+**You can follow the daily diary, with thoughts on design, feedback from mentor, process screenshots and updates** [here](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/ProcessDiary.md)
 
 ---
 
