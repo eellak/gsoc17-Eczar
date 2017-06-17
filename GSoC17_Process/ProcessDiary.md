@@ -5,7 +5,7 @@
 
 **June 16**
 - Implementation of feedback
-- Change of Greek Capitals that share same design with Latin to components
+- Change of Greek Capitals, that share same design with Latin, to components
 
 **June 15**
 
@@ -32,7 +32,7 @@ to match the latin better
 - Cleanup of previous versions
 - Glyphs added: /alpha /epsilon /iota /rho (designs await feedback from mentor).
 
-The variations between the three versions, lie on the exploration of these elements:
+**The variations between the three versions, lie on the exploration of these elements:**
 - different terminals, for example in v01 and v02 they follow an upwards exit, with v02 being more angular, while in v03, they follow a downwards exit (shown in red).
 - on how much continuous or interrupted the ductus is, more prominent on the different constructions of /eta and /mu (shown in yellow)
 - on the construction of loops, for example in v03, the design follows more closely a loop found in the devanagari script of Eczar (shown in light blue)
