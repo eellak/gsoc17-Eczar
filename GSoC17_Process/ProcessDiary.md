@@ -1,7 +1,13 @@
 ## **gsoc17-Eczar Process Diary**
 
-**June17**
+**June19**
+- Glyphs added: /gamma /delta /theta /kappa /lamda /nu /pi /sigma /finalsigma /tau (designs await feedback from mentor).
+- Revised spacing
+- Test prints 
 
+**June17**
+- Test prints after feedback
+- Revision on design of /alpha /mu /rho to fix colour
 
 **June 16**
 - Implementation of feedback
@@ -32,7 +38,7 @@ to match the latin better
 
 **June 10**
 - Cleanup of previous versions
-- Glyphs added: /alpha /epsilon /iota /rho (designs await feedback from mentor).
+- Glyphs added: /alpha /epsilon /iota /rho (designs await feedback from mentor)
 
 **The variations between the three versions, lie on the exploration of these elements:**
 - different terminals, for example in v01 and v02 they follow an upwards exit, with v02 being more angular, while in v03, they follow a downwards exit (shown in red).
