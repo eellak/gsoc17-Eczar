@@ -4112,17 +4112,6 @@
 				<string>f_l.liga</string>
 				<string>f_t.liga</string>
 				<string>.notdef</string>
-				<string>alpha.ver.003</string>
-				<string>mu.ver.002</string>
-				<string>mu.ver.005</string>
-				<string>mu.ver.003</string>
-				<string>mu.ver.004</string>
-				<string>mu.ver.007</string>
-				<string>mu.ver.006</string>
-				<string>tau.ver.002</string>
-				<string>alpha.ver.011</string>
-				<string>alpha.ver.012</string>
-				<string>alpha.ver.013</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
