@@ -1,9 +1,14 @@
 ## **gsoc17-Eczar Process Diary**
 
+**June20**
+- Glyphs added: /beta /zeta (designs await feedback from mentor).
+- Revisions
+- Test print doc, created with Drawbot Extention for RoboFont, with the latest characters: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170614.pdf))
+
 **June19**
 - Glyphs added: /gamma /delta /theta /kappa /lamda /nu /pi /sigma /finalsigma /tau (designs await feedback from mentor).
 - Revised spacing
-- Test prints 
+- Test prints
 
 **June17**
 - Test prints after feedback
