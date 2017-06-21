@@ -3,7 +3,10 @@
 **June20**
 - Glyphs added: /beta /zeta (designs await feedback from mentor).
 - Revisions
-- Test print doc, created with Drawbot Extention for RoboFont, with the latest characters: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170614.pdf))
+- Test print doc, created with Drawbot Extention for RoboFont, with the latest characters: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620.pdf))
+
+![PrintDoc170620_pg1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620_pg1.png?raw=true)
+![PrintDoc170620_pg2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620_pg2.png?raw=true)
 
 **June19**
 - Glyphs added: /gamma /delta /theta /kappa /lamda /nu /pi /sigma /finalsigma /tau (designs await feedback from mentor).
