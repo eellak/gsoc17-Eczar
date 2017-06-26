@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi" format="1">
+  <advance width="488"/>
+  <unicode hex="03C7"/>
+  <outline>
+    <contour>
+      <point x="42" y="-183" type="line"/>
+      <point x="55" y="-203"/>
+      <point x="84" y="-226"/>
+      <point x="116" y="-231" type="curve"/>
+      <point x="138" y="-215" type="line"/>
+      <point x="257" y="94" type="line"/>
+      <point x="236" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="377" type="line"/>
+      <point x="119" y="401" type="line"/>
+      <point x="128" y="391"/>
+      <point x="140" y="364"/>
+      <point x="156" y="325" type="curve" smooth="yes"/>
+      <point x="170" y="290"/>
+      <point x="186" y="250"/>
+      <point x="234" y="122" type="curve"/>
+      <point x="244" y="92" type="line"/>
+      <point x="310" y="-83" type="line" smooth="yes"/>
+      <point x="352" y="-195"/>
+      <point x="381" y="-231"/>
+      <point x="427" y="-231" type="curve" smooth="yes"/>
+      <point x="464" y="-231"/>
+      <point x="491" y="-201"/>
+      <point x="508" y="-157" type="curve"/>
+      <point x="494" y="-128" type="line"/>
+      <point x="383" y="-138" type="line"/>
+      <point x="292" y="169" type="line"/>
+      <point x="266" y="194" type="line"/>
+      <point x="247" y="299" type="line"/>
+      <point x="211" y="435"/>
+      <point x="179" y="488"/>
+      <point x="93" y="488" type="curve" smooth="yes"/>
+      <point x="66" y="488"/>
+      <point x="48" y="485"/>
+      <point x="19" y="477" type="curve"/>
+      <point x="16" y="451"/>
+      <point x="19" y="415"/>
+      <point x="26" y="390" type="curve"/>
+    </contour>
+    <contour>
+      <point x="469" y="437" type="line"/>
+      <point x="458" y="453"/>
+      <point x="414" y="479"/>
+      <point x="387" y="487" type="curve"/>
+      <point x="366" y="475" type="line"/>
+      <point x="247" y="170" type="line"/>
+      <point x="286" y="127" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
