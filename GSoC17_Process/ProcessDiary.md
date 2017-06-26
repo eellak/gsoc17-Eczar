@@ -1,7 +1,46 @@
 ## **gsoc17-Eczar Process Diary**
 
+**June25**
+- Added anchors to base glyphs that accept diacritics
+- Proper built of diacritics. [Glyph Builder](https://github.com/typemytype/GlyphConstruction) from [Frederic Berlaen](https://github.com/typemytype) was used.
+- Glyphs added: /anoteleia /tonos.case /dieresistonos /iotadieresis /iotadieresisandtonos /upsilondieresis /upsilondieresisandtonos /Alphawithtonos /Epsilowithtonos /Etawithtonos /Iotawithtonos /Iotadieresis /Omicronwithtonos (designs await feedback from mentor)
+- Test print doc, created with Drawbot Extention for RoboFont, with the latest characters: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170625.pdf))
+
+![PrintDoc170625_pg1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170625_pg1.png?raw=true)
+![PrintDoc170625_pg2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170625_pg2.png?raw=true)
+
+**June 24**
+- Glyphs added: /upsilon /upsilonwithtonos /chi /psi /omega /omegawithtonos (designs await feedback from mentor)
+- Test print doc
+- Corrections
+
+**June 23**
+- Implementation of feedback
+- Tighter spacing
+- UFO cleanup
+- Glyphs added: /xi /phi (designs await feedback from mentor)
+
+**June 22**
+
+**Feedback from Mentor was provided (you can view the pdf [here](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/00_Feedback/220615-IVfeedback.pdf)). Suggestions include:**
+
+- widening of /beta
+- more prominent corner elements on several letters
+- minor weight fixes
+
+![IVfeedback_170622](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/220615-IVfeedback.png?raw=true)
+
+**June21**
+
+**Skype meeting with organization GFOSS and mentor.** Conversation regarding the first evaluation process, the timeline and completion of its goals.
+
+**Skype meeting with mentor.** Conversation regarding the design and suggestions:
+- on spacing, which is currently slightly loose
+- on starting with some interpolation tests for the current design before the first evaluation
+- implement basic kerning for some critical glyphs
+
 **June20**
-- Glyphs added: /beta /zeta (designs await feedback from mentor).
+- Glyphs added: /beta /zeta (designs await feedback from mentor)
 - Revisions
 - Test print doc, created with Drawbot Extention for RoboFont, with the latest characters: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620.pdf))
 
@@ -9,7 +48,7 @@
 ![PrintDoc170620_pg2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620_pg2.png?raw=true)
 
 **June19**
-- Glyphs added: /gamma /delta /theta /kappa /lamda /nu /pi /sigma /finalsigma /tau (designs await feedback from mentor).
+- Glyphs added: /gamma /delta /theta /kappa /lamda /nu /pi /sigma /finalsigma /tau (designs await feedback from mentor)
 - Revised spacing
 - Test prints
 
@@ -30,15 +69,15 @@ to match the latin better
 - fix some widths (check: /omicron, /rho, /alpha)
 
 
-![IVfeedback1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/170615-IVfeedback1.png?raw=true)
-![IVfeedback2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/170615-IVfeedback2.png?raw=true)
+![IVfeedback1_170615](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/170615-IVfeedback1.png?raw=true)
+![IVfeedback2_170615](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/170615-IVfeedback2.png?raw=true)
 
 **June 14**
 - Version 03 of initial test designs uploaded
 - **First (Skype) meeting with mentor**
 - Test print doc, created with Drawbot Extention for RoboFont, with the 3 versions: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170614.pdf))
 
-![TestPrintDoc170614](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170614.png?raw=true)
+![PrintDoc170614](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170614.png?raw=true)
 
 **June 13**
 - Revision and cleanup for v01 and v02, based on v03
