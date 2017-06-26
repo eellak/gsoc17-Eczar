@@ -2,7 +2,7 @@
 
 **June25**
 - Added anchors to base glyphs that accept diacritics
-- Proper built of diacritics. [Glyph Builder](https://github.com/typemytype/GlyphConstruction) from [Frederic Berlaen](https://github.com/typemytype) was used.
+- Proper built of diacritics. [Glyph Builder](https://github.com/typemytype/GlyphConstruction) from [Frederik Berlaen](https://github.com/typemytype) was used.
 - Glyphs added: /anoteleia /tonos.case /dieresistonos /iotadieresis /iotadieresisandtonos /upsilondieresis /upsilondieresisandtonos /Alphawithtonos /Epsilowithtonos /Etawithtonos /Iotawithtonos /Iotadieresis /Omicronwithtonos (designs await feedback from mentor)
 - Test print doc, created with Drawbot Extention for RoboFont, with the latest characters: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170625.pdf))
 
