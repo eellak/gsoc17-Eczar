@@ -46,7 +46,7 @@
 - /phi counter should be corrected, it needs more balance and should be closer to the stress of /omicron
 - wider /chi
 - general note: the junction of /epsilon /beta /omega and /xi seems that it needs a bit of work, maybe the triangular shape isn’t perfect so we should make a note to revise it again after we see how it behaves in heavier weights
-- Implementation of feedback, with some revisions on the junctions and characters that share similar characteristics.
+- Implementation of feedback, with some revisions on the junctions and characters that share similar characteristics, with yellow the new version.
 
 ![Feedback170627](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/Feedback170627.png?raw=true)
 
