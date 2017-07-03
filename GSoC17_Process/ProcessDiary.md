@@ -1,10 +1,64 @@
 ## **gsoc17-Eczar Process Diary**
 
+**July02**
+- Revisions
+- UFO cleanup & latest version uploaded at github
+- Test print doc, created with DrawBot Extension for RoboFont. This one includes all the latest characters, with texts set in Monotonic and Polytonic as well: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170702.pdf))
+
+![PrintDoc170702_pg1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170702_pg1.png?raw=true)
+![PrintDoc170702_pg2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170702_pg2.png?raw=true)
+![PrintDoc170702_pg3](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170702_pg3.png?raw=true)
+![PrintDoc170702_pg4](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170702_pg4.png?raw=true)
+
+**July01**
+- Complete polytonic, lowercase and uppercase, I will not mention all the 230+ glyphs with their name, however I have prepared:
+
+**[.txt and .glyphConstruction files](https://github.com/eellak/gsoc17-Eczar/tree/master/GSoC17_Process/04_Diacritics) so anyone can use them in order to build the needed characters with diacritics for Greek Monotonic & Basic Polytonic**
+
+- You can find the files [here](https://github.com/eellak/gsoc17-Eczar/tree/master/GSoC17_Process/04_Diacritics)
+- Anchors are used on the base glyphs for the position of diacritics
+- I have also added the unicode value to each one
+- I used [Glyph Builder](https://github.com/typemytype/GlyphConstruction), however you can use these files as you prefer
+
+![GlyphBuilder](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/GlyphBuilder_170702.png?raw=true)
+
+**June30**
+
+**First Evaluation Results, all good :)**
+- Beginning of writing proper code for the build of polytonic
+
+
+**June28**
+- Glyphs added: /kaisymbol
+- New design for /Upsilon, with a more ‘traditional’ look
+- Diacritics for polytonic
+- Glyphs added: /iotaadscript /lenis /gr:tilde /dieresistilde /lenisgrave /lenisacute /lenistilde /aspergrave /asperacute /aspertilde /dieresisgrave /dieresisacute /gr:grave /gr:acut /asper and for the uppercase /iotaadscript.case /lenis.case /lenisgrave.case /lenisacute.case /lenistilde.case /aspergrave.case /asperacute.case /aspertilde.case /gr:grave.case /gr:acute.case /asper.case.
+- /breve & /macron are the same as the Latin ones.
+
+**June27**
+
+**First Evaluation**
+
+**Feedback from Mentor was provided, via email conversation, suggestions include:**
+
+- narrower /alpha /kappa /epsilon /theta /upsilon
+- longer horizontal stroke of /tau
+- /phi counter should be corrected, it needs more balance and should be closer to the stress of /omicron
+- wider /chi
+- general note: the junction of /epsilon /beta /omega and /xi seems that it needs a bit of work, maybe the triangular shape isn’t perfect so we should make a note to revise it again after we see how it behaves in heavier weights
+- Implementation of feedback, with some revisions on the junctions and characters that share similar characteristics.
+
+![Feedback170627](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/Feedback170627.png?raw=true)
+
+**June26**
+- Glyphs added: /Gamma /Delta /Theta /Lamda /Xi /Pi /Sigma /Phi /Psi /Omega /Omegawithtonos (designs await feedback from mentor). With these added, we have the complete monotonic character set, lowercase & uppercase.
+- Test print docs
+
 **June25**
 - Added anchors to base glyphs that accept diacritics
 - Proper built of diacritics. [Glyph Builder](https://github.com/typemytype/GlyphConstruction) from [Frederik Berlaen](https://github.com/typemytype) was used.
 - Glyphs added: /anoteleia /tonos.case /dieresistonos /iotadieresis /iotadieresisandtonos /upsilondieresis /upsilondieresisandtonos /Alphawithtonos /Epsilowithtonos /Etawithtonos /Iotawithtonos /Iotadieresis /Omicronwithtonos (designs await feedback from mentor)
-- Test print doc, created with Drawbot Extention for RoboFont, with the latest characters: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170625.pdf))
+- Test print doc, created with DrawBot Extension for RoboFont, with the latest characters: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170625.pdf))
 
 ![PrintDoc170625_pg1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170625_pg1.png?raw=true)
 ![PrintDoc170625_pg2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170625_pg2.png?raw=true)
@@ -42,7 +96,7 @@
 **June20**
 - Glyphs added: /beta /zeta (designs await feedback from mentor)
 - Revisions
-- Test print doc, created with Drawbot Extention for RoboFont, with the latest characters: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620.pdf))
+- Test print doc, created with DrawBot Extension for RoboFont, with the latest characters: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620.pdf))
 
 ![PrintDoc170620_pg1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620_pg1.png?raw=true)
 ![PrintDoc170620_pg2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620_pg2.png?raw=true)
@@ -75,7 +129,7 @@ to match the latin better
 **June 14**
 - Version 03 of initial test designs uploaded
 - **First (Skype) meeting with mentor**
-- Test print doc, created with Drawbot Extention for RoboFont, with the 3 versions: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170614.pdf))
+- Test print doc, created with DrawBot Extension for RoboFont, with the 3 versions: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170614.pdf))
 
 ![PrintDoc170614](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170614.png?raw=true)
 
@@ -109,7 +163,7 @@ versions with different in & out strokes, and how they read along Latin text (de
 **June 05**
 - Initial designs for Regular & Extra-Bold
 - First glyphs added: /alpha /eta /iota /omicron /rho
-- **Interpolation tests:** (created with Drawbot Extention for RoboFont)
+- **Interpolation tests:** (created with DrawBot Extension for RoboFont)
 based on the original design of Eczar, and according to the /n stems of Regular & Extra Bold,
 one can get the interpolation factor with some simple math:
 
