@@ -1,0 +1,266 @@
+# Building Greek diacritics for monotonic
+# glyphWithDiacritic = baseGlyph + diacritic @position | Unicode Value
+
+#lowerCase:
+alphawithtonos = alpha + tonos @top | 03AC
+epsilonwithtonos = epsilon + tonos @top | 03AD
+etawithtonos = eta + tonos @top | 03AE
+iotawithtonos = iota + tonos @top | 03AF
+iotadieresis = iota + dieresiscomb @top | 03CA
+iotadieresisandtonos = iota + dieresistonos @top | 0390
+omicronwithtonos = omicron + tonos @top | 03CC
+upsilonwithtonos = upsilon + tonos @top | 03CD
+upsilondieresis = upsilon + dieresiscomb @top | 03CB
+upsilondieresisandtonos = upsilon + dieresistonos @top |03B0
+omegawithtonos = omega + tonos @top | 03CE
+
+#upperCase:
+Alphawithtonos = Alpha + tonos.case @left | 0386
+Epsilonwithtonos = Epsilon + tonos.case @left | 0388
+Etawithtonos = Eta + tonos.case @left | 0389
+Iotawithtonos = Iota + tonos.case @left | 038A
+Iotadieresis = Iota + dieresiscomb @top | 03AA
+Omicronwithtonos = Omicron + tonos.case @left | 038C
+Upsilonwithtonos = Upsilon + tonos.case @left | 038E
+Upsilondieresis = Upsilon + dieresiscomb @top | 03AB
+Omegawithtonos = Omega + tonos.case @left | 038F
+
+# Building Greek diacritics for basic polytonic
+# glyphWithDiacritic = baseGlyph + diacritic @position | Unicode Value
+
+#lowerCase:
+
+alphalenis = alpha + lenis @top | 1F00
+alphaasper = alpha + asper @top | 1F01
+alphalenisgrave = alpha + lenisgrave @top | 1F02
+alphaaspergrave = alpha + aspergrave @top | 1F03
+alphalenisacute = alpha + lenisacute @top | 1F04
+alphaasperacute = alpha + asperacute @top | 1F05
+alphalenistilde = alpha + lenistilde @top | 1F06
+alphaaspertilde = alpha + aspertilde @top | 1F07
+alphagrave = alpha + gr:grave @top | 1F70
+alphalenisiotasub = alpha + lenis @top + iotaadscript @alpha:bottom | 1F80
+alphaasperiotasub = alpha + asper @top + iotaadscript @alpha:bottom | 1F81
+alphalenisgraveiotasub = alpha + lenisgrave @top + iotaadscript @alpha:bottom | 1F82
+alphaaspergraveiotasub = alpha + aspergrave @top + iotaadscript @alpha:bottom | 1F83
+alphalenisacuteiotasub = alpha + lenisacute @top + iotaadscript @alpha:bottom | 1F84
+alphaasperacuteiotasub = alpha + asperacute @top + iotaadscript @alpha:bottom | 1F85
+alphalenistildeiotasub = alpha + lenistilde @top + iotaadscript @alpha:bottom | 1F86
+alphaaspertildeiotasub = alpha + aspertilde @top + iotaadscript @alpha:bottom | 1F87
+alphabreve = alpha + brevecomb @top | 1FB0
+alphawithmacron = alpha + macroncomb @center,top| 1FB1
+alphagraveiotasub = alpha + gr:grave @top + iotaadscript @alpha:bottom | 1FB2
+alphaiotasub = alpha + iotaadscript @bottom | 1FB3
+alphaacuteiotasub = alpha + gr:acute @top + iotaadscript @alpha:bottom | 1FB4
+alphatilde = alpha + gr:tilde @top | 1FB6
+alphatildeiotasub = alpha + gr:tilde @top + iotaadscript @alpha:bottom | 1FB7
+alphaacute = alpha + gr:acute @top | 1F71
+
+epsilonlenis = epsilon + lenis @top | 1F10
+epsilonasper = epsilon + asper @top | 1F11
+epsilonlenisgrave = epsilon + lenisgrave @top | 1F12
+epsilonaspergrave = epsilon + aspergrave @top | 1F13
+epsilonlenisacute = epsilon + lenisacute @top | 1F14
+epsilonasperacute = epsilon + asperacute @top | 1F15
+epsilongrave = epsilon + gr:grave @top | 1F72
+epsilonacute = epsilon + gr:acute @top | 1F73
+
+etalenis = eta + lenis @top | 1F20
+etaasper = eta + asper @top | 1F21
+etalenisgrave = eta + lenisgrave @top | 1F22
+etaaspergrave = eta + aspergrave @top | 1F23
+etalenisacute = eta + lenisacute @top | 1F24
+etaasperacute = eta + asperacute @top | 1F25
+etalenistilde = eta + lenistilde @top | 1F26
+etaaspertilde = eta + aspertilde @top | 1F27
+etagrave = eta + gr:grave @top | 1F74
+etalenisiotasub = eta + lenis @top + iotaadscript @eta:bottom | 1F90
+etaasperiotasub = eta + asper @top + iotaadscript @eta:bottom | 1F91
+etalenisgraveiotasub = eta + lenisgrave @top + iotaadscript @eta:bottom | 1F92
+etaaspergraveiotasub = eta + aspergrave @top + iotaadscript @eta:bottom | 1F93
+etalenisacuteiotasub = eta + lenisacute @top + iotaadscript @eta:bottom | 1F94
+etaasperacuteiotasub = eta + asperacute @top + iotaadscript @eta:bottom | 1F95
+etalenistildeiotasub = eta + lenistilde @top + iotaadscript @eta:bottom | 1F96
+etaaspertildeiotasub = eta + aspertilde @top + iotaadscript @eta:bottom | 1F97
+etagraveiotasub = eta + gr:grave @top + iotaadscript @eta:bottom | 1FC2
+etaiotasub = eta + iotaadscript @bottom | 1FC3
+etaacuteiotasub = eta + gr:acute @top + iotaadscript @eta:bottom | 1FC4
+etatilde = eta + gr:tilde @top | 1FC6
+etatildeiotasub = eta + gr:tilde @top + iotaadscript @eta:bottom | 1FC7
+etaacute = eta + gr:acute @top | 1F75
+
+iotalenis = iota + lenis @top | 1F30
+iotaasper = iota + asper @top | 1F31
+iotalenisgrave = iota + lenisgrave @top | 1F32
+iotaaspergrave = iota + aspergrave @top | 1F33
+iotalenisacute = iota + lenisacute @top | 1F34
+iotaasperacute = iota + asperacute @top | 1F35
+iotalenistilde = iota + lenistilde @top | 1F36
+iotaaspertilde = iota + aspertilde @top | 1F37
+iotagrave = iota + gr:grave @top | 1F76
+iotabreve = iota + brevecomb @top | 1FD0
+iotawithmacron = iota + macroncomb @top | 1FD1
+iotadieresisgrave = iota + dieresisgrave @top | 1FD2
+iotatilde = iota + gr:tilde @top | 1FD6
+iotadieresistilde = iota + dieresistilde @top | 1FD7
+iotaacute = iota + gr:acute @top | 1F77
+iotadieresisacute = iota + dieresisacute @top | 1FD3
+
+omicronlenis = omicron + lenis @top | 1F40
+omicronasper = omicron + asper @top | 1F41
+omicronlenisgrave = omicron + lenisgrave @top | 1F42
+omicronaspergrave = omicron + aspergrave @top | 1F43
+omicronlenisacute = omicron + lenisacute @top | 1F44
+omicronasperacute = omicron + asperacute @top | 1F45
+omicrongrave = omicron + gr:grave @top | 1F78
+omicronacute = omicron + gr:acute @top | 1F79
+
+rholenis = rho + lenis @top | 1FE4
+rhoasper = rho + asper @top | 1FE5
+
+upsilonlenis = upsilon + lenis @top | 1F50
+upsilonasper = upsilon + asper @top | 1F51
+upsilonlenisgrave = upsilon + lenisgrave @top | 1F52
+upsilonaspergrave = upsilon + aspergrave @top | 1F53
+upsilonlenisacute = upsilon + lenisacute @top | 1F54
+upsilonasperacute = upsilon + asperacute @top | 1F55
+upsilonlenistilde = upsilon + lenistilde @top | 1F56
+upsilonaspertilde = upsilon + aspertilde @top | 1F57
+upsilongrave = upsilon + gr:grave @top | 1F7A
+upsilonbreve = upsilon + brevecomb @top | 1FE0
+upsilonwithmacron = upsilon + macroncomb @center,top | 1FE1
+upsilondieresisgrave = upsilon + dieresisgrave @top | 1FE2
+upsilontilde = upsilon + gr:tilde @top | 1FE6
+upsilondieresistilde = upsilon + dieresistilde @top | 1FE7
+upsilonacute = upsilon + gr:acute @top | 1F7B
+upsilondieresisacute = upsilon + dieresisacute @top | 1FE3
+
+omegalenis = omega + lenis @top | 1F60
+omegaasper = omega + asper @top | 1F61
+omegalenisgrave = omega + lenisgrave @top | 1F62
+omegaaspergrave = omega + aspergrave @top | 1F63
+omegalenisacute = omega + lenisacute @top | 1F64
+omegaasperacute = omega + asperacute @top | 1F65
+omegalenistilde = omega + lenistilde @top | 1F66
+omegaaspertilde = omega + aspertilde @top | 1F67
+omegagrave = omega + gr:grave @top | 1F7C
+omegalenisiotasub = omega + lenis @top + iotaadscript @omega:bottom | 1FA0
+omegaasperiotasub = omega + asper @top + iotaadscript @omega:bottom | 1FA1
+omegalenisgraveiotasub = omega + lenisgrave @top + iotaadscript @omega:bottom | 1FA2
+omegaaspergraveiotasub = omega + aspergrave @top + iotaadscript @omega:bottom | 1FA3
+omegalenisacuteiotasub = omega + lenisacute @top + iotaadscript @omega:bottom | 1FA4
+omegaasperacuteiotasub = omega + asperacute @top + iotaadscript @omega:bottom | 1FA5
+omegalenistildeiotasub = omega + lenistilde @top + iotaadscript @omega:bottom | 1FA6
+omegaaspertildeiotasub = omega + aspertilde @top + iotaadscript @omega:bottom | 1FA7
+omegagraveiotasub = omega + gr:grave @top + iotaadscript @omega:bottom | 1FF2
+omegaiotasub = omega + iotaadscript @bottom | 1FF3
+omegaacuteiotasub = omega + gr:acute @top + iotaadscript @omega:bottom | 1FF4
+omegatilde = omega + gr:tilde @top | 1FF6
+omegatildeiotasub = omega + gr:tilde @top + iotaadscript @omega:bottom| 1FF7
+omegaacute = omega + gr:acute @top | 1F7D
+
+#upperCase:
+
+Alphalenis = Alpha + lenis.case @left | 1F08
+Alphaasper = Alpha + asper.case @left | 1F09
+Alphalenisgrave = Alpha + lenisgrave.case @left | 1F0A
+Alphaaspergrave = Alpha + aspergrave.case @left | 1F0B
+Alphalenisacute = Alpha + lenisacute.case @left | 1F0C
+Alphaasperacute = Alpha + asperacute.case @left | 1F0D
+Alphalenistilde = Alpha + lenistilde.case @left | 1F0E
+Alphaaspertilde = Alpha + aspertilde.case @left | 1F0F
+Alphabreve = Alpha + brevecomb.case @top | 1FB8
+Alphawithmacron = Alpha + macroncomb.case @top | 1FB9
+Alphagrave = Alpha + gr:grave.case @left | 1FBA
+Alphaacute = Alpha + gr:acute.case @left | 1FBB
+Alphalenisiotasub = Alpha + lenis.case @left + iotaadscript.case @Alpha:bottom | 1F88
+Alphaasperiotasub = Alpha + asper.case @left + iotaadscript.case @Alpha:bottom | 1F89
+Alphalenisgraveiotasub = Alpha + lenisgrave.case @left + iotaadscript.case @Alpha:bottom | 1F8A
+Alphaaspergraveiotasub = Alpha + aspergrave.case @left + iotaadscript.case @Alpha:bottom | 1F8B
+Alphalenisacuteiotasub = Alpha + lenisacute.case @left + iotaadscript.case @Alpha:bottom | 1F8C
+Alphaasperacuteiotasub = Alpha + asperacute.case @left + iotaadscript.case @Alpha:bottom | 1F8D
+Alphalenistildeiotasub = Alpha + lenistilde.case @left + iotaadscript.case @Alpha:bottom | 1F8E
+Alphaaspertildeiotasub = Alpha + aspertilde.case @left + iotaadscript.case @Alpha:bottom | 1F8F
+Alphaiotasub = Alpha + iotaadscript.case @bottom | 1FBC
+
+Epsilonlenis = Epsilon + lenis.case @left | 1F18
+Epsilonasper = Epsilon + asper.case @left | 1F19
+Epsilonlenisgrave = Epsilon + lenisgrave.case @left | 1F1A
+Epsilonaspergrave = Epsilon + aspergrave.case @left | 1F1B
+Epsilonlenisacute = Epsilon + lenisacute.case @left | 1F1C
+Epsilonasperacute = Epsilon + asperacute.case @left | 1F1D
+Epsilongrave = Epsilon + gr:grave.case @left | 1FC8
+Epsilonacute = Epsilon + gr:acute.case @left | 1FC9
+
+Etalenis = Eta + lenis.case @left | 1F28
+Etaasper = Eta + asper.case @left | 1F29
+Etalenisgrave = Eta + lenisgrave.case @left | 1F2A
+Etaaspergrave = Eta + aspergrave.case @left | 1F2B
+Etalenisacute = Eta + lenisacute.case @left | 1F2C
+Etaasperacute = Eta + asperacute.case @left | 1F2D
+Etalenistilde = Eta + lenistilde.case @left | 1F2E
+Etaaspertilde = Eta + aspertilde.case @left | 1F2F
+Etagrave = Eta + gr:grave.case @left | 1FCA
+Etaacute = Eta + gr:acute.case @left | 1FCB
+Etalenisiotasub = Eta + lenis.case @left + iotaadscript.case @Eta:bottom | 1F98
+Etaasperiotasub = Eta + asper.case @left + iotaadscript.case @Eta:bottom | 1F99
+Etalenisgraveiotasub = Eta + lenisgrave.case @left + iotaadscript.case @Eta:bottom | 1F9A
+Etaaspergraveiotasub = Eta + aspergrave.case @left + iotaadscript.case @Eta:bottom | 1F9B
+Etalenisacuteiotasub = Eta + lenisacute.case @left + iotaadscript.case @Eta:bottom | 1F9C
+Etaasperacuteiotasub = Eta + asperacute.case @left + iotaadscript.case @Eta:bottom | 1F9D
+Etalenistildeiotasub = Eta + lenistilde.case @left + iotaadscript.case @Eta:bottom | 1F9E
+Etaaspertildeiotasub = Eta + aspertilde.case @left + iotaadscript.case @Eta:bottom | 1F9F
+Etaiotasub = Eta + iotaadscript.case @bottom | 1FCC
+
+Iotalenis = Iota + lenis.case @left | 1F38
+Iotaasper = Iota + asper.case @left | 1F39
+Iotalenisgrave = Iota + lenisgrave.case @left | 1F3A
+Iotaaspergrave = Iota + aspergrave.case @left | 1F3B
+Iotalenisacute = Iota + lenisacute.case @left | 1F3C
+Iotaasperacute = Iota + asperacute.case @left | 1F3D
+Iotalenistilde = Iota + lenistilde.case @left | 1F3E
+Iotaaspertilde = Iota + aspertilde.case @left | 1F3F
+Iotabreve = Iota + brevecomb.case @top | 1FD8
+Iotawithmacron = Iota + macroncomb.case @top | 1FD9
+Iotagrave = Iota + gr:grave.case @left | 1FDA
+Iotaacute = Iota + gr:acute.case @left | 1FDB
+
+Omicronlenis = Omicron + lenis.case @left | 1F48
+Omicronasper = Omicron + asper.case @left | 1F49
+Omicronlenisgrave = Omicron + lenisgrave.case @left | 1F4A
+Omicronaspergrave = Omicron + aspergrave.case @left | 1F4B
+Omicronlenisacute = Omicron + lenisacute.case @left | 1F4B
+Omicronasperacute = Omicron + asperacute.case @left | 1F4D
+Omicrongrave = Omicron + gr:grave.case @left | 1FF8
+Omicronacute = Omicron + gr:acute.case @left | 1FF9
+
+Rhoasper = Rho + asper.case @left | 1FEC
+
+Upsilonasper = Upsilon + asper.case @left | 1F59
+Upsilonaspergrave = Upsilon + aspergrave.case @left | 1F5B
+Upsilonasperacute = Upsilon + asperacute.case @left | 1F5D
+Upsilonaspertilde = Upsilon + aspertilde.case @left | 1F5F
+Upsilonbreve = Upsilon + brevecomb.case @top | 1FE8
+Upsilonwithmacron = Upsilon + macroncomb.case @top | 1FE9
+Upsilongrave = Upsilon + gr:grave.case @left | 1FEA
+Upsilonacute = Upsilon + gr:acute.case @left | 1FEB
+
+Omegalenis = Omega + lenis.case @left | 1F68
+Omegaasper = Omega + asper.case @left | 1F69
+Omegalenisgrave = Omega + lenisgrave.case @left | 1F6A
+Omegaaspergrave = Omega + aspergrave.case @left | 1F6B
+Omegalenisacute = Omega + lenisacute.case @left | 1F6C
+Omegaasperacute = Omega + asperacute.case @left | 1F6D
+Omegalenistilde = Omega + lenistilde.case @left | 1F6E
+Omegaaspertilde = Omega + aspertilde.case @left | 1F6F
+Omegagrave = Omega + gr:grave.case @left | 1FFA
+Omegaacute = Omega + gr:acute.case @left | 1FFB
+Omegalenisiotasub = Omega + lenis.case @left + iotaadscript.case @Eta:bottom | 1FA8
+Omegaasperiotasub = Omega + asper.case @left + iotaadscript.case @Eta:bottom | 1FA9
+Omegalenisgraveiotasub = Omega + lenisgrave.case @left + iotaadscript.case @Eta:bottom | 1FAA
+Omegaaspergraveiotasub = Omega + aspergrave.case @left + iotaadscript.case @Eta:bottom | 1FAB
+Omegalenisacuteiotasub = Omega + lenisacute.case @left + iotaadscript.case @Eta:bottom | 1FAC
+Omegaasperacuteiotasub = Omega + asperacute.case @left + iotaadscript.case @Eta:bottom | 1FAD
+Omegalenistildeiotasub = Omega + lenistilde.case @left + iotaadscript.case @Eta:bottom | 1FAE
+Omegaaspertildeiotasub = Omega + aspertilde.case @left + iotaadscript.case @Eta:bottom | 1FAF
+Omegaiotasub = Omega + iotaadscript.case @bottom | 1FFC
