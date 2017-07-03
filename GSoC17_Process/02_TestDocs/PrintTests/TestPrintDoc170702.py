@@ -1,9 +1,9 @@
 # For DrawBot 
 # Use it with these files installed:
-# Eczar-ExtraBold_170629.ufo
+# Eczar-ExtraBold_170702.ufo
 
 size("A4Landscape")
-font("Eczar Regular_170629")
+font("Eczar Regular_170702")
 fontSize(42)
 tracking(20)
 
@@ -12,10 +12,10 @@ textBox("ΑΆἈἉἊἋἌἍἎἏᾸᾹᾺΆᾈᾉᾊᾋᾌᾍᾎᾏᾼΒΓ
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170625 / Uppercase with Basic Polytonic / TestPrintDoc170625 / p1|4", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170702 / Uppercase with Basic Polytonic / TestPrintDoc170702 / p1|4", (30, 10, width(), 30), align="left")
 
 newPage("A4Landscape")
-font("Eczar Regular_170629")
+font("Eczar Regular_170702")
 
 fontSize(42)
 tracking(20)
@@ -25,11 +25,11 @@ textBox("αάἀἁἂἃἄἅἆἇὰάᾀᾁᾂᾃᾄᾅᾆᾇᾰᾱᾲᾳ�
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170625 / Lowercase with Basic Polytonic / TestPrintDoc170625 / p2|4", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170702 / Lowercase with Basic Polytonic / TestPrintDoc170702 / p2|4", (30, 10, width(), 30), align="left")
 
 newPage("A4Landscape")
 
-font("Eczar Regular_170629")
+font("Eczar Regular_170702")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -39,8 +39,7 @@ TestText = '''
 
 Πλησίον αὐτῆς, ἡ γρια-Λούκαινα ἐθήτευε τώρα, εἰς τὸ γῆράς της, καὶ δι᾿ αὐτὴν ἐπήγαινε τὸν κατήφορον, τὸ μονοπάτι, διὰ νὰ πλύνῃ τὰ χράμια καὶ ἄλλα διάφορα σκουτιὰ εἰς τὸ κῦμα τὸ ἁλμυρόν, καὶ νὰ τὰ ξεγλυκάνῃ στὸ Γλυφονέρι.
 
-Ἡ γραῖα ἔκυψεν εἰς τὴν ἄκρην χθαμαλοῦ, θαλασσοφαγωμένου βράχου, καὶ ἤρχισε νὰ πλύνῃ τὰ ροῦχα. Δεξιά της κατήρχετο ὁμαλώτερος, πλαγιαστός, ὁ κρημνὸς τοῦ γηλόφου, ἐφ᾿ οὗ ἦτο τὸ Κοιμητήριον, καὶ εἰς τὰ κλίτη τοῦ ὁποίου ἐκυλίοντο ἀενάως πρὸς τὴν θάλασσαν τὴν πανδέγμονα τεμάχια σαπρῶν ξύλων ἀπὸ ξεχώματα, ἤτοι ἀνακομιδὰς ἀνθρωπίνων σκελετῶν, λείψανα ἀπὸ χρυσὲς γόβες ἢ χρυσοκέντητα ὑποκάμισα νεαρῶν γυναικῶν, συνταφέντα ποτὲ μαζί των, βόστρυχοι ἀπὸ κόμας ξανθάς, καὶ ἄλλα τοῦ θανάτου λάφυρα. Ὑπεράνω τῆς κεφαλῆς της, ὀλίγον πρὸς τὰ δεξιά, ἐντὸς μικρᾶς κρυπτῆς λάκκας, παραπλεύρως τοῦ Κοιμητηρίου, εἶχε καθίσει νεαρὸς βοσκός, ἐπιστρέφων μὲ τὸ μικρὸν κοπάδι του ἀπὸ τοὺς ἀγρούς, καί, χωρὶς ν᾿ ἀναλογισθῇ τὸ πένθιμον τοῦ τόπου, εἶχε βγάλει τὸ σουραύλι ἀπὸ τὸ μαρσίπιόν του, καὶ ἤρχισε νὰ μέλπῃ φαιδρὸν ποιμενικὸν ᾆσμα. Τὸ μυρολόγι τῆς γραίας ἐκόπασεν εἰς τὸν θόρυβον τοῦ αὐλοῦ, καὶ οἱ ἐπιστρέφοντες ἀπὸ τοὺς ἀγροὺς τὴν ὥραν ἐκείνην ―εἶχε δύσει ἐν τῷ μεταξὺ ὁ ἥλιος― ἤκουον μόνον τὴν φλογέραν, κ᾿ ἐκοίταζον νὰ ἴδωσι ποῦ ἦτο ὁ αὐλητής, ὅστις δὲν ἐφαίνετο, κρυμμένος μεταξὺ τῶν θάμνων, μέσα εἰς τὸ βαθὺ κοίλωμα τοῦ κρημνοῦ.
-'''
+Ἡ γραῖα ἔκυψεν εἰς τὴν ἄκρην χθαμαλοῦ, θαλασσοφαγωμένου βράχου, καὶ ἤρχισε νὰ πλύνῃ τὰ ροῦχα. Δεξιά της κατήρχετο ὁμαλώτερος, πλαγιαστός, ὁ κρημνὸς τοῦ γηλόφου, ἐφ᾿ οὗ ἦτο τὸ Κοιμητήριον, καὶ εἰς τὰ κλίτη τοῦ ὁποίου ἐκυλίοντο ἀενάως πρὸς τὴν θάλασσαν τὴν πανδέγμονα τεμάχια σαπρῶν ξύλων ἀπὸ ξεχώματα, ἤτοι ἀνακομιδὰς ἀνθρωπίνων σκελετῶν, λείψανα ἀπὸ χρυσὲς γόβες ἢ χρυσοκέντητα ὑποκάμισα νεαρῶν γυναικῶν, συνταφέντα ποτὲ μαζί των, βόστρυχοι ἀπὸ κόμας ξανθάς, καὶ ἄλλα τοῦ θανάτου λάφυρα. Ὑπεράνω τῆς κεφαλῆς της, ὀλίγον πρὸς τὰ δεξιά, ἐντὸς μικρᾶς κρυπτῆς λάκκας, παραπλεύρως τοῦ Κοιμητηρίου, εἶχε καθίσει νεαρὸς βοσκός, ἐπιστρέφων μὲ τὸ μικρὸν κοπάδι του ἀπὸ τοὺς ἀγρούς, καί, χωρὶς ν᾿ ἀναλογισθῇ τὸ πένθιμον τοῦ τόπου, εἶχε βγάλει τὸ σουραύλι ἀπὸ τὸ μαρσίπιόν του, καὶ ἤρχισε νὰ μέλπῃ φαιδρὸν ποιμενικὸν ᾆσμα. Τὸ μυρολόγι τῆς γραίας ἐκόπασεν εἰς τὸν θόρυβον τοῦ αὐλοῦ, καὶ οἱ ἐπιστρέφοντες ἀπὸ τοὺς ἀγροὺς τὴν ὥραν ἐκείνην ―εἶχε δύσει ἐν τῷ μεταξὺ ὁ ἥλιος― ἤκουον μόνον τὴν φλογέραν, κ᾿ ἐκοίταζον νὰ ἴδωσι ποῦ ἦτο ὁ αὐλητής, ὅστις δὲν ἐφαίνετο, κρυμμένος μεταξὺ τῶν...'''
 
 
 textBox(TestText, (30, -10, 227, height()))
@@ -58,11 +57,11 @@ textBox(TestText, (300, height()/2-250, 500, 250))
 
 fill(0.5)
 fontSize(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170625 / TestPrintDoc170625 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p3|4 ", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170702 / TestPrintDoc170702 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p3|4 ", (30, 10, width(), 30), align="left")
 
 newPage("A4Landscape")
 
-font("Eczar Regular_170629")
+font("Eczar Regular_170702")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -86,6 +85,6 @@ textBox(TestText, (300, height()/2-250, 500, 250))
 
 fill(0.5)
 fontSize(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170625 / TestPrintDoc170625 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p3|4 ", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170702 / TestPrintDoc170702 / Sample text: From TestDocs_IV / p4|4 ", (30, 10, width(), 30), align="left")
 
-#saveImage("TestPrintDoc170702.pdf")
+saveImage("TestPrintDoc170702.pdf")
