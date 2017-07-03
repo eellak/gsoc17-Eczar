@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotaasperacute" format="1">
+  <advance width="267"/>
+  <unicode hex="1F35"/>
+  <note>
+  </note>
+  <outline>
+    <component base="iota"/>
+    <component base="asperacute" xOffset="-73.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

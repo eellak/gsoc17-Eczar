@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alphaacute" format="1">
+  <advance width="541"/>
+  <unicode hex="1F71"/>
+  <note>
+  </note>
+  <outline>
+    <component base="alpha"/>
+    <component base="gr:acute" xOffset="133.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
