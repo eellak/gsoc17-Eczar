@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon" format="1">
+  <advance width="615"/>
+  <unicode hex="03A5"/>
+  <outline>
+    <contour>
+      <point x="257" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="294" type="line"/>
+      <point x="257" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="52"/>
+      <point x="203" y="42"/>
+      <point x="179" y="32" type="curve"/>
+      <point x="185" y="0" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="278" y="67" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="432" y="47" type="line"/>
+      <point x="294" y="63" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="168" type="line"/>
+      <point x="350" y="376"/>
+      <point x="459" y="568"/>
+      <point x="522" y="585" type="curve"/>
+      <point x="516" y="583" type="line"/>
+      <point x="605" y="583" type="line"/>
+      <point x="615" y="618" type="line"/>
+      <point x="590" y="637"/>
+      <point x="559" y="650"/>
+      <point x="514" y="650" type="curve" smooth="yes"/>
+      <point x="414" y="650"/>
+      <point x="340" y="481"/>
+      <point x="306" y="274" type="curve"/>
+      <point x="315" y="264" type="line"/>
+      <point x="293" y="421" type="line"/>
+      <point x="241" y="581"/>
+      <point x="182" y="650"/>
+      <point x="107" y="650" type="curve" smooth="yes"/>
+      <point x="73" y="650"/>
+      <point x="32" y="635"/>
+      <point x="0" y="612" type="curve"/>
+      <point x="10" y="577" type="line"/>
+      <point x="101" y="583" type="line"/>
+      <point x="86" y="585" type="line"/>
+      <point x="157" y="549"/>
+      <point x="257" y="345"/>
+      <point x="257" y="159" type="curve"/>
+    </contour>
+    <contour>
+      <point x="293" y="318" type="line"/>
+      <point x="291" y="248" type="line"/>
+      <point x="327" y="248" type="line"/>
+      <point x="327" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="-126.0" y="343.0" type="move" name="left"/>
+    </contour>
+    <contour>
+      <point x="313.0" y="650.0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>V</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
