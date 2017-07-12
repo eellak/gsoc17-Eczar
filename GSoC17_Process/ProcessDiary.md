@@ -1,5 +1,21 @@
 ## **gsoc17-Eczar Process Diary**
 
+
+**July 10-11**
+
+Initial designs for the ExtraBold weight -based on the current Regular- and fixes for interpolation compatibility. Regarding the design itself, as the weight increases, the axis rotates to an almost horizontal one (designs await feedback from mentor).
+
+- Revised design for /chi
+- Added components for the Greek Capitals that share same design with Latin to the ExtraBold
+- Glyphs added in ExtraBold: /Alpha /Beta /Epsilon /Zeta /Eta /Iota /Kappa /Lamda /Mu /Nu /Omicron /Rho /Tau /Chi /tonos /alpha /alphawithtonos /epsilon /epsilonwithtonos /eta /etawithtonos /iota /iotawithtonos /mu /omicron /omicronwithtonos /rho
+- Added anchors to existing glyphs for diacritics
+- Fix of a unicode error in Glyph Construction file for diacritics and added the correct glyph \Omicronlenisacute
+- UFO update in github
+- I have also prepared a small animation of the weight, from Regular to ExtraBold and back, for better view of the changes that occur as the weight changes. It was created with the RoboFont Extension ‘Mutator Animator’ by Mathieu Réguer.
+
+![EczarRegularToExtraBoldAnimation170712](https://raw.githubusercontent.com/eellak/gsoc17-Eczar/42dff7e798ca08d3dcb4d16036779076602ae6be/GSoC17_Process/03_ScreenshotsForProcessDiary/EczarRegularToExtraBoldAnimation170712.gif)
+
+
 **July02**
 - Revisions
 - UFO cleanup & latest version uploaded at github
