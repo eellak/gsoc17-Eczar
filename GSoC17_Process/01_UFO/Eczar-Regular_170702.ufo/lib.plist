@@ -991,6 +991,48 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.Alpha</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.Alphaacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphaasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphaasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphaasperacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphaaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphaaspergraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphaasperiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphaaspertilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphaaspertildeiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphabreve</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphagrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphaiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphalenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphalenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphalenisacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphalenisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphalenisgraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphalenisiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphalenistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphalenistildeiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Alphawithmacron</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.Alphawithtonos</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.Amacron</key>
@@ -1045,9 +1087,63 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.Epsilon</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.Epsilonacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Epsilonasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Epsilonasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Epsilonaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Epsilongrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Epsilonlenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Epsilonlenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Epsilonlenisgrave</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.Epsilonwithtonos</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.Eta</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etaacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etaasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etaasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etaasperacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etaaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etaaspergraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etaasperiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etaaspertilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etaaspertildeiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etagrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etaiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etalenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etalenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etalenisacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etalenisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etalenisgraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etalenisiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etalenistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Etalenistildeiotasub</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.Etawithtonos</key>
 	<integer>0</integer>
@@ -1083,13 +1179,39 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.Iota</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.Iotaacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Iotaasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Iotaasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Iotaaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Iotaaspertilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Iotabreve</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.Iotadieresis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Iotagrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Iotalenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Iotalenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Iotalenisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Iotalenistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Iotawithmacron</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.Iotawithtonos</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.J</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.K</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.KORONIS</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.Kaisymbol</key>
 	<integer>0</integer>
@@ -1147,9 +1269,63 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.Omega</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.Omegaacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegaasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegaasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegaasperacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegaaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegaaspergraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegaasperiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegaaspertilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegaaspertildeiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegagrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegaiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegalenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegalenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegalenisacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegalenisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegalenisgraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegalenisiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegalenistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omegalenistildeiotasub</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.Omegawithtonos</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.Omicron</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omicronacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omicronasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omicronasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omicronaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omicrongrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omicronlenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omicronlenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Omicronlenisgrave</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.Omicronwithtonos</key>
 	<integer>0</integer>
@@ -1176,6 +1352,8 @@
 	<key>com.typedev.version_control.Rcommaaccent</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.Rho</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Rhoasper</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.S</key>
 	<integer>0</integer>
@@ -1221,7 +1399,23 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.Upsilon</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.Upsilonacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Upsilonasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Upsilonasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Upsilonaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Upsilonaspertilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Upsilonbreve</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.Upsilondieresis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Upsilongrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.Upsilonwithmacron</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.Upsilonwithtonos</key>
 	<integer>0</integer>
@@ -1273,6 +1467,56 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.alpha</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.alphaacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphaacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphaasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphaasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphaasperacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphaaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphaaspergraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphaasperiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphaaspertilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphaaspertildeiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphabreve</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphagrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphagraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphaiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphalenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphalenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphalenisacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphalenisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphalenisgraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphalenisiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphalenistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphalenistildeiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphatilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphatildeiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.alphawithmacron</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.alphawithtonos</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.amacron</key>
@@ -1290,6 +1534,22 @@
 	<key>com.typedev.version_control.asciicircum</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.asciitilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.asper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.asper.case</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.asperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.asperacute.case</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.aspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.aspergrave.case</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.aspertilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.aspertilde.case</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.asterisk</key>
 	<integer>0</integer>
@@ -1391,9 +1651,15 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.dieresis</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.dieresisacute</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.dieresiscomb</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.dieresiscomb.case</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.dieresisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.dieresistilde</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.dieresistonos</key>
 	<integer>0</integer>
@@ -2588,12 +2854,74 @@
 	<key>com.typedev.version_control.eogonek</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.epsilon</key>
+	<integer>1</integer>
+	<key>com.typedev.version_control.epsilonacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.epsilonasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.epsilonasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.epsilonaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.epsilongrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.epsilonlenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.epsilonlenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.epsilonlenisgrave</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.epsilonwithtonos</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.equal</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.eta</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etaacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etaacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etaasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etaasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etaasperacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etaaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etaaspergraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etaasperiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etaaspertilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etaaspertildeiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etagrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etagraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etaiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etalenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etalenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etalenisacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etalenisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etalenisgraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etalenisiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etalenistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etalenistildeiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etatilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.etatildeiotasub</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.etawithtonos</key>
 	<integer>0</integer>
@@ -2649,6 +2977,16 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.germandbls</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.gr:acute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.gr:acute.case</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.gr:grave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.gr:grave.case</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.gr:tilde</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.grave</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.gravecomb</key>
@@ -2701,9 +3039,45 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.iota</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.iotaacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotaadscript</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotaadscript.case</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotaasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotaasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotaaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotaaspertilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotabreve</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.iotadieresis</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.iotadieresisacute</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.iotadieresisandtonos</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotadieresisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotadieresistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotagrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotalenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotalenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotalenisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotalenistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotatilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.iotawithmacron</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.iotawithtonos</key>
 	<integer>0</integer>
@@ -2726,6 +3100,22 @@
 	<key>com.typedev.version_control.lcaron</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.lcommaaccent</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.lenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.lenis.case</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.lenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.lenisacute.case</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.lenisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.lenisgrave.case</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.lenistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.lenistilde.case</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.less</key>
 	<integer>0</integer>
@@ -2758,7 +3148,7 @@
 	<key>com.typedev.version_control.multiply</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.n</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>com.typedev.version_control.nacute</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.nbspace</key>
@@ -2801,9 +3191,71 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.omega</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.omegaacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegaacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegaasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegaasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegaasperacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegaaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegaaspergraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegaasperiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegaaspertilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegaaspertildeiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegagrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegagraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegaiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegalenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegalenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegalenisacuteiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegalenisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegalenisgraveiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegalenisiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegalenistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegalenistildeiotasub</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegatilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omegatildeiotasub</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.omegawithtonos</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.omicron</key>
+	<integer>3</integer>
+	<key>com.typedev.version_control.omicronacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omicronasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omicronasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omicronaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omicrongrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omicronlenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omicronlenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.omicronlenisgrave</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.omicronwithtonos</key>
 	<integer>0</integer>
@@ -2848,7 +3300,7 @@
 	<key>com.typedev.version_control.perthousand</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.phi</key>
-	<integer>3</integer>
+	<integer>0</integer>
 	<key>com.typedev.version_control.pi</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.plus</key>
@@ -2895,6 +3347,10 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.rho</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.rhoasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.rholenis</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.ring</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.ringcomb</key>
@@ -2928,6 +3384,8 @@
 	<key>com.typedev.version_control.softhyphen</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.space</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.space.copy_1</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.sterling</key>
 	<integer>0</integer>
@@ -3001,9 +3459,41 @@
 	<integer>0</integer>
 	<key>com.typedev.version_control.upsilon</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.upsilonacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilonasper</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilonasperacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilonaspergrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilonaspertilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilonbreve</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.upsilondieresis</key>
 	<integer>0</integer>
+	<key>com.typedev.version_control.upsilondieresisacute</key>
+	<integer>0</integer>
 	<key>com.typedev.version_control.upsilondieresisandtonos</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilondieresisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilondieresistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilongrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilonlenis</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilonlenisacute</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilonlenisgrave</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilonlenistilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilontilde</key>
+	<integer>0</integer>
+	<key>com.typedev.version_control.upsilonwithmacron</key>
 	<integer>0</integer>
 	<key>com.typedev.version_control.upsilonwithtonos</key>
 	<integer>0</integer>
@@ -3042,7 +3532,7 @@
 	<key>com.typedev.version_control.zeta</key>
 	<integer>0</integer>
 	<key>com.typemytype.glyphBuilder.lastSavedFileName</key>
-	<string>Eczar-Regular_170629</string>
+	<string>GreekDiactitics_MonotonicBasicPolytonic</string>
 	<key>com.typemytype.robofont.background.layerShow</key>
 	<true/>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
