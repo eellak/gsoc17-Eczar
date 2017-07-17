@@ -1,5 +1,30 @@
 ## **gsoc17-Eczar Process Diary**
 
+**July1 17**
+- UFO cleanups & latest versions uploaded at github
+
+**July 16**
+- Revisions
+- Test print doc, created with DrawBot Extension for RoboFont. It includes the ExtraBold lowercase and text set in ExtraBold & Regular for comparison (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170716.pdf))
+
+![PrintDoc170716_pg1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170716_pg1.png?raw=true)
+![PrintDoc170716_pg2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170716_pg2.png?raw=true)
+
+**July 14**
+- Glyphs added in ExtraBold: /dieresistonos /upsilon /upsilondieresisandtonos /upsilondieresis /upsilonwithtonos /phi /chi /psi /omega /omegawithtonos (designs await feedback from mentor).
+
+Lowercase for ExtraBold is now complete. A small pangram animation, from Regular to ExtraBold and back, created with the RoboFont Extension ‘Mutator Animator’ by Mathieu Réguer:
+
+![EczarRegularToExtraBoldAnimation170716](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/EczarRegularToExtraBoldAnimation170716.gif?raw=true)
+
+**July 13**
+
+- Glyphs added in ExtraBold: /zeta /kappa /xi /pi /finalsigma /sigma /tau (designs await feedback from mentor).
+- Revisions
+- Test prints
+
+**July 12**
+- Glyphs added in ExtraBold: /beta /gamma /delta /theta /lamda /nu (designs await feedback from mentor).
 
 **July 10-11**
 
