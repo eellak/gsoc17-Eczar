@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Theta" format="1">
+  <advance width="698"/>
+  <unicode hex="0398"/>
+  <outline>
+    <contour>
+      <point x="258" y="379" type="line"/>
+      <point x="258" y="284" type="line"/>
+      <point x="439" y="273" type="line"/>
+      <point x="439" y="395" type="line"/>
+    </contour>
+    <component base="Omicron"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

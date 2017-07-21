@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etalenistildeiotasub" format="1">
+  <advance width="855"/>
+  <unicode hex="1F9E"/>
+  <note>
+  </note>
+  <outline>
+    <component base="Eta"/>
+    <component base="lenistilde.case" xOffset="-250.0"/>
+    <component base="iotaadscript.case" xOffset="313.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

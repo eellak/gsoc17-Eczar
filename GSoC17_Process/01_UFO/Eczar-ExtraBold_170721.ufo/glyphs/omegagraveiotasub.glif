@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegagraveiotasub" format="1">
+  <advance width="758"/>
+  <unicode hex="1FF2"/>
+  <note>
+  </note>
+  <outline>
+    <component base="omega"/>
+    <component base="gr:grave" xOffset="247.0"/>
+    <component base="iotaadscript" xOffset="261.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

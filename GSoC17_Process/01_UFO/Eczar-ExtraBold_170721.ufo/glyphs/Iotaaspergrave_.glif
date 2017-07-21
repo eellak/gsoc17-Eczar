@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotaaspergrave" format="1">
+  <advance width="428"/>
+  <unicode hex="1F3B"/>
+  <note>
+  </note>
+  <outline>
+    <component base="Iota"/>
+    <component base="aspergrave.case" xOffset="-384.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

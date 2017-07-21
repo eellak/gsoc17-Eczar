@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aspergrave" format="1">
+  <advance width="265"/>
+  <unicode hex="1FDD"/>
+  <outline>
+    <component base="gr:acute" xScale="-1" xOffset="411"/>
+    <component base="asper" xOffset="-109"/>
+    <contour>
+      <point x="198.0" y="474.0" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
