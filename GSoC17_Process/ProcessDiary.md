@@ -1,6 +1,36 @@
 ## **gsoc17-Eczar Process Diary**
 
-**July1 17**
+**July 21**
+- UFO cleanups & latest versions uploaded at github
+- Test print doc, created with DrawBot Extension for RoboFont.
+This one includes the latest version of the complete Greek character sets, for both the Regular & ExtraBold weights. Texts are set in Monotonic and Polytonic as well: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721.pdf))
+
+![PrintDoc170721_pg1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_1.png?raw=true)
+![PrintDoc170721_pg2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_2.png?raw=true)
+![PrintDoc170721_pg5](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_5.png?raw=true)
+![PrintDoc170721_pg6](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_6.png?raw=true)
+
+![PrintDoc170721_pg1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_3.png?raw=true)|![PrintDoc170721_pg4](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_4.png?raw=true)
+:---:|:---:
+![PrintDoc170721_pg7](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_7.png?raw=true)|![PrintDoc170721_pg8](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_8.png?raw=true)
+
+![PrintDoc170721_pg9](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_9.png?raw=true)|![PrintDoc170721_pg11](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_11.png?raw=true)
+:---:|:---:
+![PrintDoc170721_pg10](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_10.png?raw=true)|![PrintDoc170721_pg12](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170721_12.png?raw=true)
+
+**July 20**
+- Glyphs added in ExtraBold (diacritics for polytonic): /iotaadscript /lenis /gr:tilde /dieresistilde /lenisgrave /lenisacute /lenistilde /aspergrave /asperacute /aspertilde /dieresisgrave /dieresisacute /gr:grave /gr:acute /asper
+and for the uppercase /iotaadscript.case /lenis.case /lenisgrave.case /lenisacute.case /lenistilde.case /aspergrave.case /asperacute.case /aspertilde.case /gr:grave.case /gr:acute.case /asper.case.
+- /breve & /macron are the same as the Latin ones
+- Anchors for diacritics positioning
+- Complete polytonic, lowercase and uppercase for Extra Bold (designs await feedback from mentor).
+
+**July 19**
+- Revised designs for some glyphs in Regular: /Pi (width), /Sigma (weight of diagonal) /Omega
+- Glyphs added in ExtraBold: /anoteleia /Gamma /Delta /Theta /Xi /Pi /Sigma /Upsilon /Phi /Psi /Omega (designs await feedback from mentor).
+- Interpolation compatibility for up to now glyphs (I’ll get back to this before the interpolations)
+
+**July 17**
 - UFO cleanups & latest versions uploaded at github
 
 **July 16**
@@ -9,6 +39,7 @@
 
 ![PrintDoc170716_pg1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170716_pg1.png?raw=true)
 ![PrintDoc170716_pg2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170716_pg2.png?raw=true)
+
 
 **July 14**
 - Glyphs added in ExtraBold: /dieresistonos /upsilon /upsilondieresisandtonos /upsilondieresis /upsilonwithtonos /phi /chi /psi /omega /omegawithtonos (designs await feedback from mentor).
@@ -73,7 +104,7 @@ Initial designs for the ExtraBold weight -based on the current Regular- and fixe
 - Glyphs added: /kaisymbol
 - New design for /Upsilon, with a more ‘traditional’ look
 - Diacritics for polytonic
-- Glyphs added: /iotaadscript /lenis /gr:tilde /dieresistilde /lenisgrave /lenisacute /lenistilde /aspergrave /asperacute /aspertilde /dieresisgrave /dieresisacute /gr:grave /gr:acut /asper and for the uppercase /iotaadscript.case /lenis.case /lenisgrave.case /lenisacute.case /lenistilde.case /aspergrave.case /asperacute.case /aspertilde.case /gr:grave.case /gr:acute.case /asper.case.
+- Glyphs added: /iotaadscript /lenis /gr:tilde /dieresistilde /lenisgrave /lenisacute /lenistilde /aspergrave /asperacute /aspertilde /dieresisgrave /dieresisacute /gr:grave /gr:acute /asper and for the uppercase /iotaadscript.case /lenis.case /lenisgrave.case /lenisacute.case /lenistilde.case /aspergrave.case /asperacute.case /aspertilde.case /gr:grave.case /gr:acute.case /asper.case.
 - /breve & /macron are the same as the Latin ones.
 
 **June27**
