@@ -1,5 +1,17 @@
 ## **gsoc17-Eczar Process Diary**
 
+
+**July 31**
+
+**Second Evaluation Results, all good :)**
+
+**July 24-28**
+- Spacing and Kerning week
+
+**July 27**
+
+**Second Evaluation**
+
 **July 21**
 - UFO cleanups & latest versions uploaded at github
 - Test print doc, created with DrawBot Extension for RoboFont.
@@ -72,7 +84,7 @@ Initial designs for the ExtraBold weight -based on the current Regular- and fixe
 ![EczarRegularToExtraBoldAnimation170712](https://raw.githubusercontent.com/eellak/gsoc17-Eczar/42dff7e798ca08d3dcb4d16036779076602ae6be/GSoC17_Process/03_ScreenshotsForProcessDiary/EczarRegularToExtraBoldAnimation170712.gif)
 
 
-**July02**
+**July 02**
 - Revisions
 - UFO cleanup & latest version uploaded at github
 - Test print doc, created with DrawBot Extension for RoboFont. This one includes all the latest characters, with texts set in Monotonic and Polytonic as well: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170702.pdf))
@@ -82,7 +94,7 @@ Initial designs for the ExtraBold weight -based on the current Regular- and fixe
 ![PrintDoc170702_pg3](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170702_pg3.png?raw=true)
 ![PrintDoc170702_pg4](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170702_pg4.png?raw=true)
 
-**July01**
+**July 01**
 - Complete polytonic, lowercase and uppercase, I will not mention all the 230+ glyphs with their name, however I have prepared:
 
 **[.txt and .glyphConstruction files](https://github.com/eellak/gsoc17-Eczar/tree/master/GSoC17_Process/04_Diacritics) so anyone can use them in order to build the needed characters with diacritics for Greek Monotonic & Basic Polytonic**
@@ -94,20 +106,20 @@ Initial designs for the ExtraBold weight -based on the current Regular- and fixe
 
 ![GlyphBuilder](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/GlyphBuilder_170702.png?raw=true)
 
-**June30**
+**June 30**
 
 **First Evaluation Results, all good :)**
 - Beginning of writing proper code for the build of polytonic
 
 
-**June28**
+**June 28**
 - Glyphs added: /kaisymbol
 - New design for /Upsilon, with a more ‘traditional’ look
 - Diacritics for polytonic
 - Glyphs added: /iotaadscript /lenis /gr:tilde /dieresistilde /lenisgrave /lenisacute /lenistilde /aspergrave /asperacute /aspertilde /dieresisgrave /dieresisacute /gr:grave /gr:acute /asper and for the uppercase /iotaadscript.case /lenis.case /lenisgrave.case /lenisacute.case /lenistilde.case /aspergrave.case /asperacute.case /aspertilde.case /gr:grave.case /gr:acute.case /asper.case.
 - /breve & /macron are the same as the Latin ones.
 
-**June27**
+**June 27**
 
 **First Evaluation**
 
@@ -122,11 +134,11 @@ Initial designs for the ExtraBold weight -based on the current Regular- and fixe
 
 ![Feedback170627](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/Feedback170627.png?raw=true)
 
-**June26**
+**June 26**
 - Glyphs added: /Gamma /Delta /Theta /Lamda /Xi /Pi /Sigma /Phi /Psi /Omega /Omegawithtonos (designs await feedback from mentor). With these added, we have the complete monotonic character set, lowercase & uppercase.
 - Test print docs
 
-**June25**
+**June 25**
 - Added anchors to base glyphs that accept diacritics
 - Proper built of diacritics. [Glyph Builder](https://github.com/typemytype/GlyphConstruction) from [Frederik Berlaen](https://github.com/typemytype) was used.
 - Glyphs added: /anoteleia /tonos.case /dieresistonos /iotadieresis /iotadieresisandtonos /upsilondieresis /upsilondieresisandtonos /Alphawithtonos /Epsilowithtonos /Etawithtonos /Iotawithtonos /Iotadieresis /Omicronwithtonos (designs await feedback from mentor)
@@ -156,7 +168,7 @@ Initial designs for the ExtraBold weight -based on the current Regular- and fixe
 
 ![IVfeedback_170622](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/220615-IVfeedback.png?raw=true)
 
-**June21**
+**June 21**
 
 **Skype meeting with organization GFOSS and mentor.** Conversation regarding the first evaluation process, the timeline and completion of its goals.
 
@@ -165,7 +177,7 @@ Initial designs for the ExtraBold weight -based on the current Regular- and fixe
 - on starting with some interpolation tests for the current design before the first evaluation
 - implement basic kerning for some critical glyphs
 
-**June20**
+**June 20**
 - Glyphs added: /beta /zeta (designs await feedback from mentor)
 - Revisions
 - Test print doc, created with DrawBot Extension for RoboFont, with the latest characters: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620.pdf))
@@ -173,12 +185,12 @@ Initial designs for the ExtraBold weight -based on the current Regular- and fixe
 ![PrintDoc170620_pg1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620_pg1.png?raw=true)
 ![PrintDoc170620_pg2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170620_pg2.png?raw=true)
 
-**June19**
+**June 19**
 - Glyphs added: /gamma /delta /theta /kappa /lamda /nu /pi /sigma /finalsigma /tau (designs await feedback from mentor)
 - Revised spacing
 - Test prints
 
-**June17**
+**June 17**
 - Test prints after feedback
 - Revision on design of /alpha /mu /rho to fix colour
 
