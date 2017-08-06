@@ -29,7 +29,7 @@
 :---:|:---:
 ![170803-IVfeedback_Regular2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/170803-IVfeedback_Regular2.png?raw=true)|![170803-IVfeedback_ExtraBold2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/170803-IVfeedback_ExtraBold2.png?raw=true)
 
-** Conversation in Slack with mentor:**
+**Conversation in Slack with mentor:**
 
 - Regarding kerning classes, mainly for polytonic
 - The addition of two new glyphs for the Greek Numerals U+0374 and U+0375
