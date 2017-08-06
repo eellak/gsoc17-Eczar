@@ -1,5 +1,42 @@
 ## **gsoc17-Eczar Process Diary**
 
+**August 04-06**
+
+- Glyphs added: /numeralsign /lownumeralsign /minute
+- Implementation of feedback: corrections on various letters & positions of diacritics
+- Some spacing changes
+- Small correction for the [.txt and .glyphConstruction](https://github.com/eellak/gsoc17-Eczar/tree/master/GSoC17_Process/04_Diacritics) files for the build of diacritics
+- Kerning for Regular is complete (awaiting feedback from mentor).
+- UFO cleanup & latest version for Regular uploaded at github
+- Test print doc for the Reqular weight, this one with kerning. Texts are set in Monotonic and Polytonic: (you can download the pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170806.pdf))
+
+![PrintDoc170806_pg1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170806_01.png?raw=true)|![PrintDoc170806_pg2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170806_02.png?raw=true)
+:---:|:---:
+![PrintDoc170806_pg3](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170806_03.png?raw=true)|![PrintDoc170806_pg3](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170806_04.png?raw=true)
+
+![PrintDoc170806_pg5](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170806_05.png?raw=true)
+![PrintDoc170806_pg6](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170806_06.png?raw=true)
+
+
+**August 03**
+
+**Feedback from Mentor was provided (you can view the pdf with several comments from mentor on it [here](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/00_Feedback/170803-IVfeedback.pdf)). Suggestions include:**
+
+- Various corrections on letterforms
+- Correction on some of the positions of diacritics
+
+![170803-IVfeedback_Regular1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/170803-IVfeedback_Regular1.png?raw=true)|![170803-IVfeedback_ExtraBold1](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/170803-IVfeedback_ExtraBold1.png?raw=true)
+:---:|:---:
+![170803-IVfeedback_Regular2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/170803-IVfeedback_Regular2.png?raw=true)|![170803-IVfeedback_ExtraBold2](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/170803-IVfeedback_ExtraBold2.png?raw=true)
+
+** Conversation in Slack with mentor:**
+
+- Regarding kerning classes, mainly for polytonic
+- The addition of two new glyphs for the Greek Numerals U+0374 and U+0375
+
+**August 01-02**
+
+- Kerning continues
 
 **July 31**
 
