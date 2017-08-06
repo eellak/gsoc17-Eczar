@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asper.case" format="1">
+  <advance width="365"/>
+  <outline>
+    <component base="lenis.case" xScale="-1" xOffset="184"/>
+    <contour>
+      <point x="78" y="343" type="move" name="_left"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asperacute.case" format="1">
+  <advance width="365"/>
+  <outline>
+    <component base="gr:acute" xOffset="-91" yOffset="-111"/>
+    <component base="lenis" xScale="-1" xOffset="116" yOffset="-111"/>
+    <contour>
+      <point x="78" y="343" type="move" name="_left"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

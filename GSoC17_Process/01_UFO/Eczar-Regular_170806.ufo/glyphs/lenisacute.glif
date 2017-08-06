@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lenisacute" format="1">
+  <advance width="365"/>
+  <unicode hex="1FCE"/>
+  <outline>
+    <component base="gr:acute" xOffset="59"/>
+    <component base="lenis" xOffset="-90"/>
+    <contour>
+      <point x="183.0" y="468.0" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
