@@ -1,5 +1,31 @@
 ## **gsoc17-Eczar Process Diary**
 
+**August 16**
+- UFO cleanups & latest versions for all the five weights uploaded at github
+- Test print doc with kerning for all the weights, Greek character set and samples texts in monotonic and polytonic. You can download the full pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816.pdf)
+
+![EczarRegularToExtraBoldAnimation170816](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/EczarRegularToExtraBoldAnimation170816.gif?raw=true)
+
+![PrintDoc170816_21](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816_21.png?raw=true)|![PrintDoc170816_22](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816_22.png?raw=true)
+:---:|:---:
+![PrintDoc170816_23](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816_23.png?raw=true)|![PrintDoc170816_24](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816_24.png?raw=true)
+![PrintDoc170816_25](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816_25.png?raw=true)|![PrintDoc170816_26](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816_26.png?raw=true)
+![PrintDoc170816_27](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816_27.png?raw=true)|![PrintDoc170816_28](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816_28.png?raw=true)
+![PrintDoc170816_29](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816_29.png?raw=true)|![PrintDoc170816_30](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816_30.png?raw=true)
+
+**August 14-15**
+- Some additional pairs for Kerning were added in Regular & ExtraBold, separation of groups for /iotadieresis /iotedieresistonos pairs.
+- Interpolations and  for the intermediate weights: Medium, SemiBold, Bold (RoboFont extension [Interpolation Matrix by Loïc Sander](https://github.com/loicsander/Robofont-scripts/tree/master/Interpolation%20Matrix) was used).
+- Copy of the Greek glyphs, Groups and Kerning Pairs from the interpolated weights to the original Eczar Source Files.
+- Test prints
+
+**August 09-11**
+- Additional glyphs added in ExtraBold: /kaisymbol /numeralsign /lownumeralsign /minute
+- Implementation of feedback for Extrabold: corrections on various letters
+- Some spacing changes
+- Kerning for ExtraBold is complete
+- Test prints
+
 **August 04-06**
 
 - Glyphs added: /numeralsign /lownumeralsign /minute
@@ -256,7 +282,7 @@ to match the latin better
 
 **June 13**
 - Revision and cleanup for v01 and v02, based on v03
-- Changed 'font info', adding individual names based on date and version in UFO files for better test install from RoboFont
+- Changed ‘font info’, adding individual names based on date and version in UFO files for better test install from RoboFont
 
 **June 10**
 - Cleanup of previous versions
