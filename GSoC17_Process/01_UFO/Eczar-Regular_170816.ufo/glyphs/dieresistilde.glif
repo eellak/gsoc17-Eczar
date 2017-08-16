@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistilde" format="1">
+  <advance width="365"/>
+  <unicode hex="1FC1"/>
+  <outline>
+    <component base="gr:tilde" yOffset="174"/>
+    <component base="dieresiscomb" xOffset="181" yOffset="23"/>
+    <contour>
+      <point x="175.0" y="468.0" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

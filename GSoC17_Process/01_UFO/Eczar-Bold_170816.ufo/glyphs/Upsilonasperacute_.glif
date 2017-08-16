@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilonasperacute" format="1">
+  <advance width="693.0"/>
+  <unicode hex="1F5D"/>
+  <note>
+  </note>
+  <outline>
+    <component base="asperacute.case" xOffset="-362"/>
+    <component base="Upsilon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gr:grave.case" format="1">
+  <advance width="290.0"/>
+  <outline>
+    <contour>
+      <point x="143" y="407" type="line"/>
+      <point x="32" y="604" type="line"/>
+      <point x="35" y="637" type="line"/>
+      <point x="59" y="656"/>
+      <point x="110" y="676"/>
+      <point x="151" y="670" type="curve"/>
+      <point x="204" y="431" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

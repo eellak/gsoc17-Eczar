@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etaasperiotasub" format="1">
+  <advance width="829.0"/>
+  <unicode hex="1F99"/>
+  <note>
+  </note>
+  <outline>
+    <component base="Eta"/>
+    <component base="iotaadscript.case" xOffset="301"/>
+    <component base="asper.case" xOffset="-217"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
