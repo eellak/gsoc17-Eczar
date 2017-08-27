@@ -2,9 +2,9 @@
 
 
 ## Final Report
-You can find visit the **Final Report gist** for the project with more details on the process and design decisions [here](https://gist.github.com/thynem/034ee86ea3da707eb6e46ee230c59aed).
+You can visit the **Final Report gist** for the project with more details on the process and design decisions [here](https://gist.github.com/thynem/034ee86ea3da707eb6e46ee230c59aed).
 
-You can also take a look at the daily diary, with thoughts on design, feedback from mentor, process screenshots and updates [here](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/ProcessDiary.md).
+You can also take a look at the **daily process diary**, with thoughts on design, feedback from mentor, process screenshots and updates [here](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/ProcessDiary.md).
 
 View the project on [Google Summer of Code website.](https://summerofcode.withgoogle.com/organizations/4825634544025600/#6608201922379776)
 
@@ -27,7 +27,7 @@ At the moment, not many serif fonts that support Greek are available from Google
 By adding polytonic support, the typeface becomes even more versatile, and can be used not only for multilingual webpages but also i.e. for academic reasons, for publishing houses that prefer polytonic text etc.
 The goal of this project is to expand the Google Fonts collection with support for the Greek script and create a repository for future reference for designers that are interested in adding Greek support in their fonts.
 
-A pdf file with all the character sets and sample texts can be found [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170827.pdf).
+**A pdf file with all the character sets and sample texts can be found [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170827.pdf).**
 
 A small pangram animation, from Regular to ExtraBold and back, demonstrating the changes of the final design that occur as weight is added:
 
@@ -37,9 +37,9 @@ A small pangram animation, from Regular to ExtraBold and back, demonstrating the
 
 ## Deliverables
 
-- The Final UFO files can be found [here](https://github.com/eellak/gsoc17-Eczar/tree/master/GSoC17_Process/01_UFO)
+- **The Final UFO files can be found [here](https://github.com/eellak/gsoc17-Eczar/tree/master/GSoC17_Process/01_UFO)**
 
-- The exported OTF & TTF files can be found [here](https://github.com/eellak/gsoc17-Eczar/tree/master/GSoC17_Process/05_Exports)
+- **The exported OTF & TTF files can be found [here](https://github.com/eellak/gsoc17-Eczar/tree/master/GSoC17_Process/05_Exports)**
 
 ---
 
