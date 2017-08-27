@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphaaspertilde" format="1">
+  <advance width="730"/>
+  <unicode hex="1F0F"/>
+  <note>
+  </note>
+  <outline>
+    <component base="Alpha"/>
+    <component base="aspertilde.case" xOffset="-41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

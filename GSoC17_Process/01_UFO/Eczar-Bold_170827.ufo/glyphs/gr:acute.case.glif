@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gr:acute.case" format="1">
+  <advance width="290.0"/>
+  <outline>
+    <contour>
+      <point x="50" y="407" type="line"/>
+      <point x="161" y="604" type="line"/>
+      <point x="158" y="637" type="line"/>
+      <point x="135" y="656"/>
+      <point x="84" y="676"/>
+      <point x="43" y="670" type="curve"/>
+      <point x="-10" y="431" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="343" type="move" name="_left"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>1.0</real>
+        <real>0.8</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
