@@ -1,299 +1,299 @@
 # For DrawBot 
 # Use it with these files installed:
-# Eczar-Regular_170816 / Eczar-Medium_170816 / Eczar-SemiBold_170816 / Eczar-Bold_170816 / Eczar-ExtraBold_170816
+# Eczar-Regular_170827 / Eczar-Medium_170827 / Eczar-SemiBold_170827 / Eczar-Bold_170827 / Eczar-ExtraBold_170827
 
 
 size("A4Landscape")
 
 ############################################## new page
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fontSize(100)
 tracking(20)
 textBox("αάβγδεέζηήθιΐίϊκλμνξοόπρςστυΰϋύφχψωώ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170816 / TestPrintDoc170816 / p1|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170827 / TestPrintDoc170827 / p1|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fontSize(100)
 tracking(20)
 textBox("ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170816 / TestPrintDoc170816 / p2|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170827 / TestPrintDoc170827 / p2|30", (30, 10, width(), 30), align="left")
 
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fontSize(42)
 tracking(20)
 textBox("ΑΆἈἉἊἋἌἍἎἏᾸᾹᾺΆᾈᾉᾊᾋᾌᾍᾎᾏᾼΒΓΔΕΈἘἙἚἛἜἝῈΈΖΗΉἨἩἪἫἬἭἮἯῊΉᾘᾙᾚᾛᾜᾝᾞᾟῌΘΙΊΪἸἹἺἻἼἽἾἿῘῙῚΊΚΛΜΝΞΟΌὈὉὊὋὌὍῸΌΠΡῬΣΤΥΎΫὙὛὝὟῨῩῪΎΦΧΨΩΏὨὩὪὫὬὭὮὯῺΏᾨᾩᾪᾫᾬᾭᾮᾯῼ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170816 / TestPrintDoc170816 / p3|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170827 / TestPrintDoc170827 / p3|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fontSize(42)
 tracking(20)
 textBox("αάἀἁἂἃἄἅἆἇὰάᾀᾁᾂᾃᾄᾅᾆᾇᾰᾱᾲᾳᾴᾶᾷβγδεέἐἑἒἓἔἕὲέζηήἠἡἢἣἤἥἦἧὴήᾐᾑᾒᾓᾔᾕᾖᾗῂῃῄῆῇθιΐίϊἰἱἲἳἴἵἶἷὶίῐῑῒΐῖῗκλμνξοόὀὁὂὃὄὅὸόπρῤῥςστυΰϋύὐὑὒὓὔὕὖὗὺύῠῡῢΰῦῧφχψωώὠὡὢὣὤὥὦὧὼᾠᾡᾢᾣᾤᾥᾦᾧῲῳῴῶῷώ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170816 / TestPrintDoc170816 / p4|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170827 / TestPrintDoc170827 / p4|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
-font("Eczar Medium_170816")
+font("Eczar Medium_170827")
 fontSize(100)
 tracking(20)
 textBox("αάβγδεέζηήθιΐίϊκλμνξοόπρςστυΰϋύφχψωώ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170816 / TestPrintDoc170816 / p5|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170827 / TestPrintDoc170827 / p5|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Medium_170816")
+font("Eczar Medium_170827")
 fontSize(100)
 tracking(20)
 textBox("ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170816 / TestPrintDoc170816 / p6|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170827 / TestPrintDoc170827 / p6|30", (30, 10, width(), 30), align="left")
 
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Medium_170816")
+font("Eczar Medium_170827")
 fontSize(42)
 tracking(20)
 textBox("ΑΆἈἉἊἋἌἍἎἏᾸᾹᾺΆᾈᾉᾊᾋᾌᾍᾎᾏᾼΒΓΔΕΈἘἙἚἛἜἝῈΈΖΗΉἨἩἪἫἬἭἮἯῊΉᾘᾙᾚᾛᾜᾝᾞᾟῌΘΙΊΪἸἹἺἻἼἽἾἿῘῙῚΊΚΛΜΝΞΟΌὈὉὊὋὌὍῸΌΠΡῬΣΤΥΎΫὙὛὝὟῨῩῪΎΦΧΨΩΏὨὩὪὫὬὭὮὯῺΏᾨᾩᾪᾫᾬᾭᾮᾯῼ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170816 / TestPrintDoc170816 / p7|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170827 / TestPrintDoc170827 / p7|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Medium_170816")
+font("Eczar Medium_170827")
 fontSize(42)
 tracking(20)
 textBox("αάἀἁἂἃἄἅἆἇὰάᾀᾁᾂᾃᾄᾅᾆᾇᾰᾱᾲᾳᾴᾶᾷβγδεέἐἑἒἓἔἕὲέζηήἠἡἢἣἤἥἦἧὴήᾐᾑᾒᾓᾔᾕᾖᾗῂῃῄῆῇθιΐίϊἰἱἲἳἴἵἶἷὶίῐῑῒΐῖῗκλμνξοόὀὁὂὃὄὅὸόπρῤῥςστυΰϋύὐὑὒὓὔὕὖὗὺύῠῡῢΰῦῧφχψωώὠὡὢὣὤὥὦὧὼᾠᾡᾢᾣᾤᾥᾦᾧῲῳῴῶῷώ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170816 / TestPrintDoc170816 / p8|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170827 / TestPrintDoc170827 / p8|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
-font("Eczar SemiBold_170816")
+font("Eczar SemiBold_170827")
 fontSize(100)
 tracking(20)
 textBox("αάβγδεέζηήθιΐίϊκλμνξοόπρςστυΰϋύφχψωώ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170816 / TestPrintDoc170816 / p9|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170827 / TestPrintDoc170827 / p9|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar SemiBold_170816")
+font("Eczar SemiBold_170827")
 fontSize(100)
 tracking(20)
 textBox("ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170816 / TestPrintDoc170816 / p10|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170827 / TestPrintDoc170827 / p10|30", (30, 10, width(), 30), align="left")
 
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar SemiBold_170816")
+font("Eczar SemiBold_170827")
 fontSize(42)
 tracking(20)
 textBox("ΑΆἈἉἊἋἌἍἎἏᾸᾹᾺΆᾈᾉᾊᾋᾌᾍᾎᾏᾼΒΓΔΕΈἘἙἚἛἜἝῈΈΖΗΉἨἩἪἫἬἭἮἯῊΉᾘᾙᾚᾛᾜᾝᾞᾟῌΘΙΊΪἸἹἺἻἼἽἾἿῘῙῚΊΚΛΜΝΞΟΌὈὉὊὋὌὍῸΌΠΡῬΣΤΥΎΫὙὛὝὟῨῩῪΎΦΧΨΩΏὨὩὪὫὬὭὮὯῺΏᾨᾩᾪᾫᾬᾭᾮᾯῼ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170816 / TestPrintDoc170816 / p11|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170827 / TestPrintDoc170827 / p11|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar SemiBold_170816")
+font("Eczar SemiBold_170827")
 fontSize(42)
 tracking(20)
 textBox("αάἀἁἂἃἄἅἆἇὰάᾀᾁᾂᾃᾄᾅᾆᾇᾰᾱᾲᾳᾴᾶᾷβγδεέἐἑἒἓἔἕὲέζηήἠἡἢἣἤἥἦἧὴήᾐᾑᾒᾓᾔᾕᾖᾗῂῃῄῆῇθιΐίϊἰἱἲἳἴἵἶἷὶίῐῑῒΐῖῗκλμνξοόὀὁὂὃὄὅὸόπρῤῥςστυΰϋύὐὑὒὓὔὕὖὗὺύῠῡῢΰῦῧφχψωώὠὡὢὣὤὥὦὧὼᾠᾡᾢᾣᾤᾥᾦᾧῲῳῴῶῷώ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170816 / TestPrintDoc170816 / p12|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170827 / TestPrintDoc170827 / p12|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
-font("Eczar Bold_170816")
+font("Eczar Bold_170827")
 fontSize(100)
 tracking(20)
 textBox("αάβγδεέζηήθιΐίϊκλμνξοόπρςστυΰϋύφχψωώ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170816 / TestPrintDoc170816 / p13|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170827 / TestPrintDoc170827 / p13|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Bold_170816")
+font("Eczar Bold_170827")
 fontSize(100)
 tracking(20)
 textBox("ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170816 / TestPrintDoc170816 / p14|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170827 / TestPrintDoc170827 / p14|30", (30, 10, width(), 30), align="left")
 
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Bold_170816")
+font("Eczar Bold_170827")
 fontSize(42)
 tracking(20)
 textBox("ΑΆἈἉἊἋἌἍἎἏᾸᾹᾺΆᾈᾉᾊᾋᾌᾍᾎᾏᾼΒΓΔΕΈἘἙἚἛἜἝῈΈΖΗΉἨἩἪἫἬἭἮἯῊΉᾘᾙᾚᾛᾜᾝᾞᾟῌΘΙΊΪἸἹἺἻἼἽἾἿῘῙῚΊΚΛΜΝΞΟΌὈὉὊὋὌὍῸΌΠΡῬΣΤΥΎΫὙὛὝὟῨῩῪΎΦΧΨΩΏὨὩὪὫὬὭὮὯῺΏᾨᾩᾪᾫᾬᾭᾮᾯῼ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170816 / TestPrintDoc170816 / p15|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170827 / TestPrintDoc170827 / p15|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Bold_170816")
+font("Eczar Bold_170827")
 fontSize(42)
 tracking(20)
 textBox("αάἀἁἂἃἄἅἆἇὰάᾀᾁᾂᾃᾄᾅᾆᾇᾰᾱᾲᾳᾴᾶᾷβγδεέἐἑἒἓἔἕὲέζηήἠἡἢἣἤἥἦἧὴήᾐᾑᾒᾓᾔᾕᾖᾗῂῃῄῆῇθιΐίϊἰἱἲἳἴἵἶἷὶίῐῑῒΐῖῗκλμνξοόὀὁὂὃὄὅὸόπρῤῥςστυΰϋύὐὑὒὓὔὕὖὗὺύῠῡῢΰῦῧφχψωώὠὡὢὣὤὥὦὧὼᾠᾡᾢᾣᾤᾥᾦᾧῲῳῴῶῷώ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170816 / TestPrintDoc170816 / p16|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170827 / TestPrintDoc170827 / p16|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar ExtraBold_170816")
+font("Eczar ExtraBold_170827")
 fontSize(100)
 tracking(20)
 textBox("αάβγδεέζηήθιΐίϊκλμνξοόπρςστυΰϋύφχψωώ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
 
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170816 / TestPrintDoc170816 / p17|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170827 / TestPrintDoc170827 / p17|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar ExtraBold_170816")
+font("Eczar ExtraBold_170827")
 fontSize(100)
 tracking(20)
 textBox("ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170816 / TestPrintDoc170816 / p18|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170827 / TestPrintDoc170827 / p18|30", (30, 10, width(), 30), align="left")
 
 
 ############################################## new page
 
 newPage("A4Landscape")
 
-font("Eczar ExtraBold_170816")
+font("Eczar ExtraBold_170827")
 fontSize(42)
 tracking(20)
 textBox("ΑΆἈἉἊἋἌἍἎἏᾸᾹᾺΆᾈᾉᾊᾋᾌᾍᾎᾏᾼΒΓΔΕΈἘἙἚἛἜἝῈΈΖΗΉἨἩἪἫἬἭἮἯῊΉᾘᾙᾚᾛᾜᾝᾞᾟῌΘΙΊΪἸἹἺἻἼἽἾἿῘῙῚΊΚΛΜΝΞΟΌὈὉὊὋὌὍῸΌΠΡῬΣΤΥΎΫὙὛὝὟῨῩῪΎΦΧΨΩΏὨὩὪὫὬὭὮὯῺΏᾨᾩᾪᾫᾬᾭᾮᾯῼ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170816 / TestPrintDoc170816 / p19|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170827 / TestPrintDoc170827 / p19|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar ExtraBold_170816")
+font("Eczar ExtraBold_170827")
 fontSize(42)
 lineHeight(44)
 tracking(20)
 textBox("αάἀἁἂἃἄἅἆἇὰάᾀᾁᾂᾃᾄᾅᾆᾇᾰᾱᾲᾳᾴᾶᾷβγδεέἐἑἒἓἔἕὲέζηήἠἡἢἣἤἥἦἧὴήᾐᾑᾒᾓᾔᾕᾖᾗῂῃῄῆῇθιΐίϊἰἱἲἳἴἵἶἷὶίῐῑῒΐῖῗκλμνξοόὀὁὂὃὄὅὸόπρῤῥςστυΰϋύὐὑὒὓὔὕὖὗὺύῠῡῢΰῦῧφχψωώὠὡὢὣὤὥὦὧὼᾠᾡᾢᾣᾤᾥᾦᾧῲῳῴῶῷώ", (30, -30, width()-100, height()))
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 lineHeight(9)
 tracking(0)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170816 / TestPrintDoc170816 / p20|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170827 / TestPrintDoc170827 / p20|30", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 
 newPage("A4Landscape")
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -319,16 +319,16 @@ lineHeight(23)
 
 textBox(TestText, (300, height()/2-250, 500, 250))   
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 lineHeight(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170816 / TestPrintDoc170816 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p21|30 ", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170827 / TestPrintDoc170827 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p21|30 ", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -349,16 +349,16 @@ lineHeight(23)
 
 textBox(TestText, (300, height()/2-250, 500, 250))   
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 lineHeight(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170816 / TestPrintDoc170816 / Sample text: From TestDocs_IV / p22|30 ", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Regular_170827 / TestPrintDoc170827 / Sample text: From TestDocs_IV / p22|30 ", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Medium_170816")
+font("Eczar Medium_170827")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -384,16 +384,16 @@ lineHeight(23)
 
 textBox(TestText, (300, height()/2-250, 500, 250))   
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 lineHeight(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170816 / TestPrintDoc170816 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p23|30 ", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170827 / TestPrintDoc170827 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p23|30 ", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Medium_170816")
+font("Eczar Medium_170827")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -414,16 +414,16 @@ lineHeight(23)
 
 textBox(TestText, (300, height()/2-250, 500, 250))   
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 lineHeight(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170816 / TestPrintDoc170816 / Sample text: From TestDocs_IV / p24|30 ", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Medium_170827 / TestPrintDoc170827 / Sample text: From TestDocs_IV / p24|30 ", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar SemiBold_170816")
+font("Eczar SemiBold_170827")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -449,16 +449,16 @@ lineHeight(23)
 
 textBox(TestText, (300, height()/2-250, 500, 250))   
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 lineHeight(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170816 / TestPrintDoc170816 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p25|30 ", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170827 / TestPrintDoc170827 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p25|30 ", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar SemiBold_170816")
+font("Eczar SemiBold_170827")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -479,16 +479,16 @@ lineHeight(23)
 
 textBox(TestText, (300, height()/2-250, 500, 250))   
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 lineHeight(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170816 / TestPrintDoc170816 / Sample text: From TestDocs_IV / p26|30 ", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_SemiBold_170827 / TestPrintDoc170827 / Sample text: From TestDocs_IV / p26|30 ", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Bold_170816")
+font("Eczar Bold_170827")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -514,16 +514,16 @@ lineHeight(23)
 
 textBox(TestText, (300, height()/2-250, 500, 250))   
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 lineHeight(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170816 / TestPrintDoc170816 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p27|30 ", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170827 / TestPrintDoc170827 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p27|30 ", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar Bold_170816")
+font("Eczar Bold_170827")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -544,17 +544,17 @@ lineHeight(23)
 
 textBox(TestText, (300, height()/2-250, 500, 250))   
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 lineHeight(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170816 / TestPrintDoc170816 / Sample text: From TestDocs_IV / p28|30 ", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_Bold_170827 / TestPrintDoc170827 / Sample text: From TestDocs_IV / p28|30 ", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 
 newPage("A4Landscape")
 
-font("Eczar ExtraBold_170816")
+font("Eczar ExtraBold_170827")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -580,16 +580,16 @@ lineHeight(23)
 
 textBox(TestText, (300, height()/2-250, 500, 250))   
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 lineHeight(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170816 / TestPrintDoc170816 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p29|30 ", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170827 / TestPrintDoc170827 / Sample text: “The Seal’s Dirge” - A. Papadiamantis / p29|30 ", (30, 10, width(), 30), align="left")
 
 ############################################## new page
 newPage("A4Landscape")
 
-font("Eczar ExtraBold_170816")
+font("Eczar ExtraBold_170827")
 lineHeight(12)
 language("Greek")
 hyphenation(True)
@@ -610,10 +610,10 @@ lineHeight(23)
 
 textBox(TestText, (300, height()/2-250, 500, 250))   
 
-font("Eczar Regular_170816")
+font("Eczar Regular_170827")
 fill(0.5)
 fontSize(9)
 lineHeight(9)
-textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170816 / TestPrintDoc170816 / Sample text: From TestDocs_IV / p30|30", (30, 10, width(), 30), align="left")
+textBox("Emilios Theofanous / GSoC17 - Adding Greek to the Open-Source Type Family Eczar / Eczar_ExtraBold_170827 / TestPrintDoc170827 / Sample text: From TestDocs_IV / p30|30", (30, 10, width(), 30), align="left")
 
-saveImage("TestPrintDoc170816.pdf")
+saveImage("TestPrintDoc170827.pdf")
