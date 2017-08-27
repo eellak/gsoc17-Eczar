@@ -1,5 +1,18 @@
 ## **gsoc17-Eczar Process Diary**
 
+**August 26-27**
+- Final Report [gist](https://gist.github.com/thynem/034ee86ea3da707eb6e46ee230c59aed) was created.
+- Minor fixes on diacritics positions on Regular
+- ReadMe Update to reflect the process of the project.
+- Final UFO cleanups & latest versions for all the five weights uploaded at github
+- Test print doc with Greek character set and samples texts in monotonic and polytonic. You can download the full pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170827.pdf).
+- Small specimen sample for Final Report:
+
+![Sample170827](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/Sample170827.png?raw=true)
+
+**August 22-23**
+- Documentation for Final Report
+
 **August 16**
 - UFO cleanups & latest versions for all the five weights uploaded at github
 - Test print doc with kerning for all the weights, Greek character set and samples texts in monotonic and polytonic. You can download the full pdf [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170816.pdf)
