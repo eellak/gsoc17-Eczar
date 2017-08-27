@@ -1,7 +1,7 @@
 _ignore
 font.ufo
-*.ttf
-*.otf
+.ttf
+.otf
 *.zip
 *.log
 *.tmp
