@@ -1,17 +1,47 @@
 # gsoc17-Eczar
+
+
+## Final Report
+You can find visit the **Final Report gist** for the project with more details on the process and design decisions [here](https://gist.github.com/thynem/034ee86ea3da707eb6e46ee230c59aed).
+
+You can also take a look at the daily diary, with thoughts on design, feedback from mentor, process screenshots and updates [here](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/ProcessDiary.md).
+
 View the project on [Google Summer of Code website.](https://summerofcode.withgoogle.com/organizations/4825634544025600/#6608201922379776)
+
 
 ## Synopsis
 
-This project aims to bring **full support for the Greek script, including polytonic** for the typeface **Eczar**.
+**The Project took place during the Google Summer of Code 2017.**
 
-Eczar is an open-source type family designed by Vaibhav Singh, produced by David Březina, and published by [Rosetta Type Foundry](https://rosettatype.com).
-You can view the original Github repository of the project [here](https://github.com/rosettatype/Eczar) and the fonts on [Google Fonts](https://fonts.google.com/specimen/Eczar).
+**It’s aim was to offer full support for the Greek script, including polytonic**, to an existing open source typeface. Eczar was selected, an open-source type family designed by Vaibhav Singh, produced by David Březina, and published by [Rosetta Type Foundry](https://rosettatype.com).
+You can view the original Github repository of the project [here](https://github.com/rosettatype/Eczar).
 
-As a typeface, Eczar has a strong personality, with five weights from Regular to Extra-Bold and can be used to set text from body copy to display.
-At the moment, not many Serif fonts that support Greek are available from Google Fonts; the goal of this project is to expand this collection.
 
-Eczar already supports Latin and Devanagari. Devanagari are designed with an axis mirrored in relation to the Latin; this provides a good basis for certain letterforms that could be transferred into the Greek design, rendering a balanced outcome for all the supported scripts.
+![Sample170827](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/Sample170827.png?raw=true)
+
+
+A few words about the selected typeface: Eczar has a strong personality, with five weights from Regular to Extra-Bold and can be used to set text from body copy to display.
+These characteristics were transferred to the Greek script as well, with the intention of providing a contemporary open source typeface with Greek support.
+
+At the moment, not many serif fonts that support Greek are available from Google Fonts; as a result many Greek websites, that load their fonts from Google Fonts, lack of unique brand and personality. The same can be said for non-profit organizations that depend on open source projects for their daily production tasks.
+By adding polytonic support, the typeface becomes even more versatile, and can be used not only for multilingual webpages but also i.e. for academic reasons, for publishing houses that prefer polytonic text etc.
+The goal of this project is to expand the Google Fonts collection with support for the Greek script and create a repository for future reference for designers that are interested in adding Greek support in their fonts.
+
+A pdf file with all the character sets and sample texts can be found [here](https://github.com/eellak/gsoc17-Eczar/raw/master/GSoC17_Process/02_TestDocs/PrintTests/TestPrintDoc170827.pdf).
+
+A small pangram animation, from Regular to ExtraBold and back, demonstrating the changes of the final design that occur as weight is added:
+
+![EczarRegularToExtraBoldAnimation170816](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/03_ScreenshotsForProcessDiary/EczarRegularToExtraBoldAnimation170816.gif?raw=true)
+
+---
+
+## Deliverables
+
+- The Final UFO files can be found [here](https://github.com/eellak/gsoc17-Eczar/tree/master/GSoC17_Process/01_UFO)
+
+- The exported OTF & TTF files can be found [here](https://github.com/eellak/gsoc17-Eczar/tree/master/GSoC17_Process/05_Exports)
+
+---
 
 ## Timeline’s Summary:
 
@@ -30,12 +60,13 @@ Uppercase, lowercase and polytonic for Extra-Bold Weight, kerning and initial in
 **July 31 – August 28**<br />
 Fix interpolation compatibility issues, completion of the 5 weights, documentation.
 
+
 **August 29**<br />
 **Finish**
 
 You can find the detailed, week by week, **timeline** for the project [here](https://github.com/eellak/gsoc17-Eczar/blob/master/TIMELINE.md).
 
-**You can follow the daily diary, with thoughts on design, feedback from mentor, process screenshots and updates** [here](https://github.com/eellak/gsoc17-Eczar/blob/master/GSoC17_Process/ProcessDiary.md)
+
 
 ---
 
@@ -43,11 +74,11 @@ You can find the detailed, week by week, **timeline** for the project [here](htt
 
 * Alexios Zavras
 * Diomidis Spinellis
-* Irene Vlachou
+* Irene Vlachou | [GitHub](https://github.com/irenevl) | [Twitter](https://twitter.com/irene_vlachou)
 
 ### Student:
 
-* Emilios Theofanous
+* Emilios Theofanous | [GitHub](https://github.com/thynem) | [Twitter](https://twitter.com/emilios__)
 
 ### Organization:
 
