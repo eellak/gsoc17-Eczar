@@ -78,7 +78,7 @@ You can find the detailed, week by week, **timeline** for the project [here](htt
 
 ### Student:
 
-* Emilios Theofanous | [GitHub](https://github.com/thynem) | [Twitter](https://twitter.com/emilios__)
+* Emilios Theofanous | EsadType, Amiens | [GitHub](https://github.com/thynem) | [Twitter](https://twitter.com/emilios__)
 
 ### Organization:
 
